@@ -1,39 +1,29 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-03 07:51:16.37
+**Last updated:** 2026-07-04 07:37:10.63
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 1197 |
-| Total calls (previous) | 1194 |
-| **New calls added** | **3** |
-| Calls removed (expired/closed) | 0 |
+| Total calls (new) | 1196 |
+| Total calls (previous) | 1197 |
+| **New calls added** | **0** |
+| Calls removed (expired/closed) | 1 |
 
-## Calls added (3)
+## Calls added
 
-### Digital, Industry & Space (1)
+No new calls compared to the previous snapshot.
 
-- **Factory processes and automation for de- and re-manufacturing (RIA) (Made in Europe partnership)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-03
+## Calls removed (1)
 
-### Healthy Oceans, Seas, Coastal & Inland Waters (2)
-
-- **Cross-basin topic - Innovative nature-inclusive concepts to reconcile offshore renewables with ocean protection**
-  Horizon Europe · RIA
-  https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-OCEAN-01-06.json
-
-- **Cross-basin topic - Analysis of the obstacles and opportunities for repurposing aged/unused offshore infrastructures**
-  Horizon Europe · RIA
-  https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-OCEAN-01-07.json
+- **Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)** — Horizon Europe · Deadline: 2027-04-14
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 341 |
+| Climate, Energy & Mobility | 340 |
 | Food, Bioeconomy & Environment | 189 |
 | Digital, Industry & Space | 150 |
 | Culture, Creativity & Inclusion | 130 |
