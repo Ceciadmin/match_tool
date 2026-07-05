@@ -1,33 +1,38 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-04 07:37:10.63
+**Last updated:** 2026-07-05 07:56:34.18
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 1196 |
-| Total calls (previous) | 1197 |
-| **New calls added** | **0** |
-| Calls removed (expired/closed) | 1 |
+| Total calls (new) | 1195 |
+| Total calls (previous) | 1196 |
+| **New calls added** | **1** |
+| Calls removed (expired/closed) | 2 |
 
-## Calls added
+## Calls added (1)
 
-No new calls compared to the previous snapshot.
+### Climate, Energy & Mobility (1)
 
-## Calls removed (1)
+- **Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)**
+  Horizon Europe · IA · Deadline: 2027-04-14
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-05
 
-- **Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)** — Horizon Europe · Deadline: 2027-04-14
+## Calls removed (2)
+
+- **Multi-hazard approach and cumulative / cascading impacts** — Horizon Europe · Deadline: 2026-11-05
+- **Targeted innovative capabilities for the resilience of critical entities to natural and human-induced disasters, including hybrid scenarios** — Horizon Europe · Deadline: 2026-11-05
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 340 |
+| Climate, Energy & Mobility | 341 |
 | Food, Bioeconomy & Environment | 189 |
 | Digital, Industry & Space | 150 |
 | Culture, Creativity & Inclusion | 130 |
-| Security & Resilience | 97 |
+| Security & Resilience | 95 |
 | Defence | 69 |
 | Health & Life Sciences | 60 |
 | SME, Entrepreneurship & Market Uptake | 51 |
