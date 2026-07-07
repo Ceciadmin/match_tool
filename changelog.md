@@ -1,617 +1,79 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-06 08:45:09.16
+**Last updated:** 2026-07-07 06:37:56.30
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 610 |
-| Total calls (previous) | 1195 |
-| **New calls added** | **2** |
-| Calls removed (expired/closed) | 587 |
+| Total calls (new) | 623 |
+| Total calls (previous) | 610 |
+| **New calls added** | **14** |
+| Calls removed (expired/closed) | 1 |
 
-## Calls added (2)
+## Calls added (14)
 
-### Security & Resilience (2)
+### Digital, Industry & Space (14)
 
-- **Multi-hazard approach and cumulative / cascading impacts**
-  Horizon Europe · IA · Deadline: 2026-11-05
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-DRS-02
+- **AI compute evaluation and deployment platform for EU infrastructure**
+  Digital Europe Programme · DIGITAL-JU-GP DIGITAL JU Grants for Procurement · Deadline: 2026-09-23
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-AI-GFP
 
-- **Targeted innovative capabilities for the resilience of critical entities to natural and human-induced disasters, including hybrid scenarios**
-  Horizon Europe · IA · Deadline: 2026-11-05
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-INFRA-03
+- **AI chip demonstrators for EU compute infrastructure**
+  Digital Europe Programme · DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants · Deadline: 2026-09-23
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-AI1-SG
 
-## Calls removed (587)
+- **International collaboration EU and Japan on semiconductors**
+  Digital Europe Programme · DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants · Deadline: 2026-09-24
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-SG-JAPAN
 
-- **Electricity, Gas, Smart Grids and CO₂ networks - Studies** — Connecting Europe Facility (CEF)
-- **Electricity, Gas, Smart Grids and CO₂ networks - Works** — Connecting Europe Facility (CEF)
-- **Alternative Fuel Infrastructure Facility - Unit Contributions** — Connecting Europe Facility (CEF)
-- **Alternative Fuel Infrastructure Facility - Works - LNG** — Connecting Europe Facility (CEF)
-- **Alternative Fuel Infrastructure Facility - Works - Zero Emissions** — Connecting Europe Facility (CEF)
-- **Alternative Fuel Infrastructure Facility - Unit Contributions** — Connecting Europe Facility (CEF)
-- **Alternative Fuel Infrastructure Facility - Works - LNG** — Connecting Europe Facility (CEF)
-- **Alternative Fuel Infrastructure Facility - Works - Zero Emissions** — Connecting Europe Facility (CEF)
-- **Adaptation of the TEN-T to civilian-defence dual use - studies, works or mixed** — Connecting Europe Facility (CEF)
-- **Citizens’ engagement and participation** — CERV
-- **European Remembrance - 2023** — CERV
-- **Town-Twinning** — CERV
-- **Call for proposals to promote equality and to fight against racism, xenophobia and discrimination** — CERV
-- **European mini-slate development** — Creative Europe (CREA)
-- **Films on the Move** — Creative Europe (CREA)
-- **European Film sales agent** — Creative Europe (CREA)
-- **Deployment of the AI-on-demand platform** — Digital Europe Programme
-- **Highly secure collaborative platform for aeronautics and security industry** — Digital Europe Programme
-- **Coordination of AI sectorial testing and experimentation facilities** — Digital Europe Programme
-- **Developing citiverse** — Digital Europe Programme
-- **Genome of Europe** — Digital Europe Programme
-- **Federated European Infrastructure for intensive care units' (ICU) data** — Digital Europe Programme
-- **Cloud IPCEI Exploitation office** — Digital Europe Programme
-- **Digital Product Passport** — Digital Europe Programme
-- **European Digital Media observatory (EDMO) - National and multinational hubs** — Digital Europe Programme
-- **Network of safer Internet Centres (SICs)** — Digital Europe Programme
-- **EU Energy saving reference framework** — Digital Europe Programme
-- **Support to Dissemination and exploitation (D&E)** — Digital Europe Programme
-- **Supporting the network of National contact points (NCPs)** — Digital Europe Programme
-- **Boosting Digital Skills of young pupils, in particular girls** — Digital Europe Programme
-- **Reinforcing skills in semiconductors** — Digital Europe Programme
-- **EU Cybersecurity Resilience, Coordination and Cybersecurity Ranges** — Digital Europe Programme
-- **Capacity building of Security Operation Centres** — Digital Europe Programme
-- **Uptake of Innovative Cybersecurity Solutions** — Digital Europe Programme
-- **Coordination between the cybersecurity civilian and defence spheres** — Digital Europe Programme
-- **Support for implementation of EU legislation on cybersecurity and national cybersecurity strategies** — Digital Europe Programme
-- **Standardisation in the area of Cybersecurity** — Digital Europe Programme
-- **Preparedness support and mutual assistance** — Digital Europe Programme
-- **Self-protection systems** — European Defence Fund
-- **Smart technologies for next generation fighter systems** — European Defence Fund
-- **Counter unmanned aerial systems** — European Defence Fund
-- **Detect and avoid** — European Defence Fund
-- **Laser communications** — European Defence Fund
-- **Tactical RPAS** — European Defence Fund
-- **Full-Spectrum Cyber Situational Awareness for enhanced Cyberspace Operations Support** — European Defence Fund
-- **Deployable Autonomous AI Agent** — European Defence Fund
-- **Long-range indirect fire support capabilities for precision and high efficiency strikes** — European Defence Fund
-- **Main battle tank platform systems** — European Defence Fund
-- **Technologies and processes for maintenance, joining and repair through an innovation test hub** — European Defence Fund
-- **Federating CBRN systems** — European Defence Fund
-- **Modular and multirole patrol corvette** — European Defence Fund
-- **Sensor grid** — European Defence Fund
-- **Initial operational capacity for Space situational awareness C2 and sensors** — European Defence Fund
-- **Unmanned anti-submarine and seabed warfare** — European Defence Fund
-- **Future maritime mine countermeasures capability** — European Defence Fund
-- **Non-thematic development actions by SMEs** — European Defence Fund
-- **Agile and robust human language technologies for defence – Organisation of a technological challenge** — European Defence Fund
-- **Agile and robust human language technologies for defence – Participation to a technological challenge** — European Defence Fund
-- **Non-thematic research actions targeting disruptive technologies for defence** — European Defence Fund
-- **Non-thematic research actions by SMEs and research organisations** — European Defence Fund
-- **Dedicated hardware architectures for energy-efficient AI** — European Defence Fund
-- **Laser-based directed energy weapons** — European Defence Fund
-- **Demonstrators and technologies to defeat threats posed by Unexploded Explosives Ordnances (UXO) and Improvised Explosive Devices (IED)** — European Defence Fund
-- **Strategic air transportation of outsized cargo** — European Defence Fund
-- **Electromagnetic signal propagation** — European Defence Fund
-- **Optronics detector technologies** — European Defence Fund
-- **Automation of security penetration tests** — European Defence Fund
-- **Innovative propulsion systems for defence applications** — European Defence Fund
-- **High performance materials for Defence applications** — European Defence Fund
-- **Threat surveillance and protection of space-based assets** — European Defence Fund
-- **Improving scientific knowledge to strengthen the science-basis of management decisions under the Common Fisheries Policy** — EMFAF
-- **ENGAGEMENT ACTIONS BY CHANGE-MAKERS** — 43697167
-- **CIVIL SOCIETY ENGAGEMENT ACTIONS** — 43697167
-- **Partnership for Excellence - Centres of Vocational Excellence** — Erasmus+
-- **ERC PROOF OF CONCEPT GRANTS** — Horizon Europe
-- **Support to the European Platform on Combatting Homelessness** — European Social Fund+ (ESF+)
-- **Implementation of a European Tracking Service for pensions** — European Social Fund+ (ESF+)
-- **A European Collaborative Cloud for Cultural Heritage** — Horizon Europe
-- **A European Collaborative Cloud for Cultural Heritage – Innovative tools for digitising cultural heritage objects** — Horizon Europe
-- **Protest politics and cultures of opposition in democracy** — Horizon Europe
-- **Multilevel governance in times of digital and climate transitions** — Horizon Europe
-- **What is the long-term impact of rule of law and other European values on socio-economic outcomes?** — Horizon Europe
-- **The interrelation between social, cultural and political identities, as well as the sense of belonging, and democracies** — Horizon Europe
-- **Gender-roles in extremist movements and their impact on democracy** — Horizon Europe
-- **Computational Social Science approaches in research on democracy** — Horizon Europe
-- **Digital democracy** — Horizon Europe
-- **Culture, the arts and cultural spaces for democratic participation and political expression, online and offline** — Horizon Europe
-- **The role and functioning of public administrations in democratic systems** — Horizon Europe
-- **Political participation in multilingual spaces** — Horizon Europe
-- **Future scenarios and young visions for European democracy 2040** — Horizon Europe
-- **Testing and implementation of research results fostering democracy and governance** — Horizon Europe
-- **New European Bauhaus – Innovative solutions for greener and fairer ways of life through arts and culture, architecture and design for all** — Horizon Europe
-- **Cultural and creative industries for a sustainable climate transition** — Horizon Europe
-- **Leverage the digital transition for competitive European cultural and creative industries** — Horizon Europe
-- **Europe’s cultural heritage and arts – promoting our values at home and abroad** — Horizon Europe
-- **Strategies to strengthen the European linguistic capital in a globalised world** — Horizon Europe
-- **Policy recommendations from socio-economic impacts of loneliness in Europe** — Horizon Europe
-- **Strengthen economic fairness and resilience of active labour market policies and address high unemployment** — Horizon Europe
-- **Minimise costs and maximise benefits of job creation and job destruction** — Horizon Europe
-- **Social services: economic and social returns and value added** — Horizon Europe
-- **Social dialogue in the new world of work** — Horizon Europe
-- **Beyond the horizon: A human-friendly deployment of artificial intelligence and related technologies** — Horizon Europe
-- **Methodologies for teamworking of researchers – reinforcing transversal collaborative skills, behavioural and implementation sciences** — Horizon Europe
-- **Arts and cultural awareness and expression in education and training** — Horizon Europe
-- **The role of social economy in addressing social exclusion, providing quality jobs and greater sustainability** — Horizon Europe
-- **Effective education and labour market transitions of young people** — Horizon Europe
-- **Assessing and strengthening the complementarity between new technologies and human skills** — Horizon Europe
-- **Capabilities for border surveillance and situational awareness** — Horizon Europe
-- **Identify, inspect, neutralise Unexploded Ordnance (UXO) at sea** — Horizon Europe
-- **Beyond the state-of-the-art “biometrics on the move” for border checks** — Horizon Europe
-- **Interoperability of systems and equipment at tactical level; between equipment and databases; and/or between databases of threats and materials** — Horizon Europe
-- **Secure Computing Continuum (IoT, Edge, Cloud, Dataspaces)** — Horizon Europe
-- **Privacy-preserving and identity management technologies** — Horizon Europe
-- **Security of robust AI systems** — Horizon Europe
-- **Improving social and societal preparedness for disaster response and health emergencies** — Horizon Europe
-- **Design of crisis prevention and preparedness actions in case of digital breakdown (internet, electricity etc.)** — Horizon Europe
-- **Operability and standardisation in response to biological toxin incidents** — Horizon Europe
-- **Internationally coordinated networking of training centres for the validation and testing of CBRN-E tools and technologies in case of incidents, with consideration of human factors** — Horizon Europe
-- **Robotics: Autonomous or semi-autonomous UGV systems to supplement skills for use in hazardous environments** — Horizon Europe
-- **Increased technology solutions, institutional coordination and decision-support systems for first responders of last-kilometer emergency service delivery** — Horizon Europe
-- **Processing of large, complex and unstructured datasets resulting from criminal investigations, while reconciling big data analysis and data protection** — Horizon Europe
-- **A harmonized European forensics approach on drugs analysis** — Horizon Europe
-- **New methods and technologies in service of community policing and transferable best practices** — Horizon Europe
-- **Open Topic** — Horizon Europe
-- **Crime as a service** — Horizon Europe
-- **Enhancing tools and capabilities to fight advanced forms of cyber threats and cyber-dependent crimes** — Horizon Europe
-- **Facilitating strategic cooperation to ensure the provision of essential services** — Horizon Europe
-- **Supporting operators against cyber and non-cyber threats to reinforce the resilience of critical infrastructures** — Horizon Europe
-- **Open grounds for pre-commercial procurement of innovative security technologies** — Horizon Europe
-- **Accelerating uptake through open proposals for advanced SME innovation** — Horizon Europe
-- **Open Topic** — Horizon Europe
-- **Interoperability for border and maritime surveillance and situational awareness** — Horizon Europe
-- **Advanced user-friendly, compatible, secure identity and travel document management** — Horizon Europe
-- **Integrated risk-based border control that mitigates public security risk, reduces false positives and strengthens privacy** — Horizon Europe
-- **Detection and tracking of illegal and trafficked goods** — Horizon Europe
-- **Approaches and tools for security in software and hardware development and assessment** — Horizon Europe
-- **Post-quantum cryptography transition** — Horizon Europe
-- **Prevention, detection, response and mitigation of chemical, biological and radiological threats to agricultural production, feed and food processing, distribution and consumption** — Horizon Europe
-- **Open Topic** — Horizon Europe
-- **Harmonised / Standard protocols for the implementation of alert and impact forecasting systems as well as transnational emergency management in the areas of high-impact weather / climatic and geological disasters** — Horizon Europe
-- **Hi-tech capacities for crisis response and recovery after a natural-technological (NaTech) disaster** — Horizon Europe
-- **Cost-effective sustainable technologies and crisis management strategies for RN large-scale protection of population and infrastructures after a nuclear blast or nuclear facility incident** — Horizon Europe
-- **Mitigating new threats and adapting investigation strategies in the era of Internet of Things** — Horizon Europe
-- **Open Topic** — Horizon Europe
-- **Lawful evidence collection in online child sexual abuse investigations, including undercover** — Horizon Europe
-- **Radicalisation and gender** — Horizon Europe
-- **Combating hate speech online and offline** — Horizon Europe
-- **Open Topic** — Horizon Europe
-- **CBRN-E detection capacities in small architecture** — Horizon Europe
-- **Tracing of cryptocurrencies transactions related to criminal purposes** — Horizon Europe
-- **Open Topic** — Horizon Europe
-- **Resilient and secure urban planning and new tools for EU territorial entities** — Horizon Europe
-- **Advanced real-time data analysis used for infrastructure resilience** — Horizon Europe
-- **Demand-led innovation through public procurement** — Horizon Europe
-- **Accelerating uptake through open proposals for advanced SME innovation** — Horizon Europe
-- **AI-driven data operations and compliance technologies (AI, data and robotics partnership) (IA)** — Horizon Europe
-- **Piloting emerging Smart IoT Platforms and decentralized intelligence (IA)** — Horizon Europe
-- **Platform Building, standardisation and Up-scaling of the ‘Cloud-Edge-IoT’ Solutions (Horizontal Activities - CSA)** — Horizon Europe
-- **Novel paradigms and approaches, towards AI-powered robots– step change in functionality (AI, data and robotics partnership) (RIA)** — Horizon Europe
-- **Industrial leadership in AI, Data and Robotics boosting competitiveness and the green transition (AI Data and Robotics Partnership) (IA)[[https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662906/IPOL_STU(2021)662906_EN.pdf]]** — Horizon Europe
-- **Open Source for Cloud/Edge to support European Digital Autonomy (RIA)** — Horizon Europe
-- **Fundamentals of Software Engineering (RIA)** — Horizon Europe
-- **Public recognition scheme for Open Source (CSA)** — Horizon Europe
-- **Pilot line(s) for 2D materials-based devices (RIA)** — Horizon Europe
-- **Synergy with national and regional initiatives in Europe (CSA)** — Horizon Europe
-- **Stimulating transnational research and development of next generation quantum technologies, including basic theories and components (Cascading grant with FSTP)** — Horizon Europe
-- **Quantum sensing and metrology for market uptake (IA)** — Horizon Europe
-- **Smart photonics for joint communication & sensing and access everywhere (Photonics Partnership) (RIA)** — Horizon Europe
-- **Photonics Innovation Factory for Europe (Photonics Partnership) (IA)** — Horizon Europe
-- **Explainable and Robust AI (AI Data and Robotics Partnership) (RIA)** — Horizon Europe
-- **Collaborative intelligence – combining the best of machine and human (AI Data and Robotics Partnership) (RIA)** — Horizon Europe
-- **Support for transnational activities of National Contact Points in the thematic areas of Digital, Industry and Space (CSA)** — Horizon Europe
-- **Facilitate the engagement in global ICT standardisation development (CSA)** — Horizon Europe
-- **Support for transnational activities of National Contact Points in the thematic areas of Digital, Industry and Space** — Horizon Europe
-- **Exploration of critical raw materials in deep land deposits (RIA)** — Horizon Europe
-- **Technologies for processing and refining of critical raw materials (IA)** — Horizon Europe
-- **Rare Earth and magnets innovation hubs (IA)** — Horizon Europe
-- **Addressing due diligence requirements in raw materials supply chains. (CSA)** — Horizon Europe
-- **Technologies for extraction and processing of critical raw materials (IA)** — Horizon Europe
-- **Development of safe and sustainable by design alternatives (IA)** — Horizon Europe
-- **Biodegradable polymers for sustainable packaging materials (IA)** — Horizon Europe
-- **Advanced biomaterials for the Health Care (IA)** — Horizon Europe
-- **'Innovate to transform' support for SME's sustainability transition (CSA)** — Horizon Europe
-- **Copernicus for Land and Water** — Horizon Europe
-- **Copernicus for Security** — Horizon Europe
-- **Quantum Space Gravimetry Phase-B study & Technology Maturation** — Horizon Europe
-- **Space technologies for European non-dependence and competitiveness** — Horizon Europe
-- **Bio-intelligent manufacturing industries (Made in Europe Partnership) (RIA)** — Horizon Europe
-- **Manufacturing as a Service: Technologies for customised, flexible, and decentralised production on demand (Made in Europe Partnership) (RIA)** — Horizon Europe
-- **Technologies/solutions to support circularity for manufacturing (Made in Europe Partnership) (RIA)** — Horizon Europe
-- **Enhanced assessment, intervention and repair of civil engineering infrastructure (RIA)** — Horizon Europe
-- **Optimisation of thermal energy flows in the process industry (Processes4Planet partnership) (IA)** — Horizon Europe
-- **Renewable hydrogen used as feedstock in innovative production routes (Processes4Planet Partnership) (RIA)** — Horizon Europe
-- **Turning CO2 emissions from the process industry to feedstock (Processes4Planet partnership) (IA)** — Horizon Europe
-- **Hubs for circularity for industrialised urban peripheral areas (Processes4Planet partnership) (IA)** — Horizon Europe
-- **Breakthroughs to improve process industry resource efficiency (Processes4Planet partnership) (RIA)** — Horizon Europe
-- **Digital transformation and ensuring a better use of industrial data, which can optimise steel supply chains (Clean Steel Partnership) (IA)** — Horizon Europe
-- **CO2-neutral steel production with hydrogen, secondary carbon carriers and electricity OR innovative steel applications for low CO2 emissions (Clean Steel Partnership) (RIA)** — Horizon Europe
-- **Advanced materials and cells development enabling large-scale production of Gen4 solid-state batteries for mobility applications (Batt4EU Partnership)** — Horizon Europe
-- **New Approaches to Develop Enhanced Safety Materials for Gen 3 Li-Ion Batteries for Mobility Applications (Batt4EU Partnership)** — Horizon Europe
-- **Creating a digital passport to track battery materials, optimize battery performance and life, validate recycling, and promote a new business model based on data sharing (Batt4EU Partnership)** — Horizon Europe
-- **Development of near zero-emission biomass heat and/or CHP including carbon capture** — Horizon Europe
-- **Novel thermal energy storage for CSP** — Horizon Europe
-- **Industrial manufacturing for lower-cost solar thermal components and systems** — Horizon Europe
-- **Innovative components and configurations for heat pumps** — Horizon Europe
-- **Advanced exploration technologies for geothermal resources in a wide range of geological settings** — Horizon Europe
-- **Smart use of geothermal electricity and heating and cooling in the energy system** — Horizon Europe
-- **Development of next generation advanced biofuel technologies** — Horizon Europe
-- **Development of microalgae and/or direct solar fuel production and purification technologies for advanced aviation and /or shipping fuels** — Horizon Europe
-- **Demonstration of sustainable hydropower refurbishment** — Horizon Europe
-- **Development of innovative power take-off and control systems for wave energy devices** — Horizon Europe
-- **Advanced concepts for crystalline Silicon technology** — Horizon Europe
-- **Large Area Perovskite solar cells and modules** — Horizon Europe
-- **Operation, Performance and Maintenance of PV Systems** — Horizon Europe
-- **Digital twin for forecasting of power production to wind energy demand** — Horizon Europe
-- **Critical technologies to improve the lifetime, efficient decommissioning and increase the circularity of offshore and onshore wind energy systems** — Horizon Europe
-- **Accelerating the green transition and energy access in Africa** — Horizon Europe
-- **Increasing the efficiency of innovative static energy conversion devices for electricity and heat/cold generation** — Horizon Europe
-- **Integration of renewable gases, other than hydrogen or methane, and which have not access to gas grids and interfacing with electricity and heat sectors** — Horizon Europe
-- **System approach for grid planning and upgrade in support of a dominant electric mobility (vehicles and vessels) using AI tools** — Horizon Europe
-- **Digital tools for enhancing the uptake of digital services in the energy market** — Horizon Europe
-- **Creation of a standardised and open-source peer-to-peer energy sharing platform architecture for the energy sector** — Horizon Europe
-- **Components and interfacing for AC & DC side protection system – AC & DC grid: components and systems for grid optimisation** — Horizon Europe
-- **Digital solutions for defining synergies in international renewable energy value chains** — Horizon Europe
-- **Support to the SET Plan IWG on hydrogen** — Horizon Europe
-- **Innovative uses of lifecycle data for the management of buildings and buildings portfolios (Built4People Partnership)** — Horizon Europe
-- **Solutions for the identification of vulnerable buildings and people-centric built environment, and for improving their resilience in disruptive events and altered conditions in a changing climate (Built4People Partnership)** — Horizon Europe
-- **Demonstrate built-environment decarbonisation pathways through bottom-up technological, social and policy innovation for adaptive integrated sustainable renovation solutions (Built4People Partnership)** — Horizon Europe
-- **Fast-tracking and promoting built environment construction and renovation innovation with local value chains (Built4People Partnership)** — Horizon Europe
-- **Supporting the creation of an accessible and inclusive built environment (Built4People Partnership)** — Horizon Europe
-- **User-centric development of vehicle technologies and solutions to optimise the on-board experience and ensure inclusiveness (CCAM Partnership)** — Horizon Europe
-- **Generation of scenarios for development, training, virtual testing and validation of CCAM systems (CCAM Partnership)** — Horizon Europe
-- **Infrastructure-enabled solutions for improving the continuity or extension of Operational Design Domains (ODDs) (CCAM Partnership)** — Horizon Europe
-- **Integrating European diversity in the design, development and implementation of CCAM solutions to support mobility equity (CCAM Partnership)** — Horizon Europe
-- **CCAM effects on jobs and education, plans for skills that match the CCAM development, and prerequisites for employment growth (CCAM Partnership)** — Horizon Europe
-- **Zero-emission e-commerce and freight delivery and return choices by retailers, consumers and local authorities** — Horizon Europe
-- **Operational automation to support multimodal freight transport** — Horizon Europe
-- **Future-proof GHG and environmental emissions factors for accounting emissions from transport and logistics operations** — Horizon Europe
-- **Climate resilient and safe maritime ports** — Horizon Europe
-- **Better infrastructure safety on urban and secondary rural roads throughout a combination of adaptable monitoring and maintenance solutions** — Horizon Europe
-- **Aviation safety - Uncertainty quantification for safety and risk management** — Horizon Europe
-- **New ways of reducing serious injuries and the long-term consequences of road crashes** — Horizon Europe
-- **Support for dissemination events in the field of Transport Research** — Horizon Europe
-- **Enhanced quantification and understanding of natural and anthropogenic methane emissions and sinks** — Horizon Europe
-- **Inland ice, including snow cover, glaciers, ice sheets and permafrost, and their interaction with climate change** — Horizon Europe
-- **Paleoclimate science for a better understanding of the short- to long-term evolution of the Earth system** — Horizon Europe
-- **Improved toolbox for evaluating the climate and environmental impacts of trade policies** — Horizon Europe
-- **Next generation low-emission, climate-resilient pathways and NDCs for a future aligned with the Paris Agreement** — Horizon Europe
-- **The role of climate change foresight for primary and secondary raw materials supply** — Horizon Europe
-- **Quantification of the role of key terrestrial ecosystems in the carbon cycle and related climate effects** — Horizon Europe
-- **Advanced sustainable and safe pre-processing technologies for End-of-Life (EoL) battery recycling (Batt4EU Partnership)** — Horizon Europe
-- **Non-Li Sustainable Batteries with European Supply Chains for Stationary Storage (Batt4EU Partnership)** — Horizon Europe
-- **Development of technical and business solutions to optimise the circularity, resilience, and sustainability of the European battery value chain (Batt4EU Partnership)** — Horizon Europe
-- **Emerging energy technologies for a climate neutral Europe** — Horizon Europe
-- **Furthering the development of a materials acceleration platform for sustainable batteries (combining AI, big data, autonomous synthesis robotics, high throughput testing) (Batt4EU Partnership)** — Horizon Europe
-- **Sustainable high-throughput production processes for stable lithium metal anodes for next generation batteries (Batt4EU Partnership)** — Horizon Europe
-- **Post-Li-ion technologies and relevant manufacturing techniques for mobility applications (Generation 5) (Batt4EU Partnership)** — Horizon Europe
-- **Size & weight reduction of cell and packaging of batteries system, integrating lightweight and functional materials, innovative thermal management and safe and sustainable by design approach (Batt4EU Partnership)** — Horizon Europe
-- **Alternative equipment and processes for advanced manufacturing of PV technologies** — Horizon Europe
-- **Low-power PV** — Horizon Europe
-- **Demonstration of improved intermediate renewable energy carrier technologies for transport fuels** — Horizon Europe
-- **Improvement of light harvesting and carbon fixation with synthetic biology and/or bio-inspired//biomimetic pathways for renewable direct solar fuels production** — Horizon Europe
-- **Development of carbon fixation technologies for biogenic flue gases** — Horizon Europe
-- **Innovative applications/integration of geothermal heating and cooling in industry** — Horizon Europe
-- **Development of hydropower equipment for improving techno-economic efficiency and equipment resilience in refurbishment situations** — Horizon Europe
-- **Demonstration of sustainable wave energy farms** — Horizon Europe
-- **Africa-EU CO-FUND action** — Horizon Europe
-- **Next generation of renewable energy technologies** — Horizon Europe
-- **AI Testing and Experimentation Facility (TEF) for the energy sector – bringing technology to the market** — Horizon Europe
-- **Energy Management Systems for flexibility services** — Horizon Europe
-- **DC and AC/DC hybrid transmission and distribution systems** — Horizon Europe
-- **Condition & Health Monitoring in Power Electronics (PE) - Wide Band Gap PE for the energy sector** — Horizon Europe
-- **HVAC, HVDC and High-Power cable systems** — Horizon Europe
-- **Demonstration of innovative pumped storage equipment and tools in combination with innovative storage management systems** — Horizon Europe
-- **Development and integration of advanced software tools in SCADA systems for High, Medium and Low voltage AC/DC hybrid systems** — Horizon Europe
-- **Digital tools for CSP and solar thermal plants** — Horizon Europe
-- **Development of next generation synthetic renewable fuel technologies** — Horizon Europe
-- **Development of smart concepts of integrated energy driven bio-refineries for co-production of advanced biofuels, bio-chemicals and biomaterials** — Horizon Europe
-- **Critical technologies for the future ocean energy farms** — Horizon Europe
-- **PV-integrated electric mobility applications** — Horizon Europe
-- **Innovative, Community-Integrated PV systems** — Horizon Europe
-- **Resource Efficiency of PV in Production, Use and Disposal** — Horizon Europe
-- **Minimisation of environmental, and optimisation of socio-economic impacts in the deployment, operation and decommissioning of offshore wind farms** — Horizon Europe
-- **Demonstrations of innovative floating wind concepts** — Horizon Europe
-- **Market Uptake Measures of renewable energy systems** — Horizon Europe
-- **CCU for the production of fuels** — Horizon Europe
-- **DACCS and BECCS for CO2 removal/negative emissions** — Horizon Europe
-- **Low-disruptive renovation processes using integration of prefabricated solutions for energy-efficient buildings** — Horizon Europe
-- **Smart grid-ready buildings** — Horizon Europe
-- **Alternative heating systems for efficient, flexible and electrified heat generation in industry** — Horizon Europe
-- **Industrialisation of sustainable and circular deep renovation workflows (Built4People Partnership)** — Horizon Europe
-- **Robotics and other automated solutions for construction, renovation and maintenance in a sustainable built environment (Built4People Partnership)** — Horizon Europe
-- **BIM-based processes and digital twins for facilitating and optimising circular energy renovation (Built4People Partnership)** — Horizon Europe
-- **Design for adaptability, re-use and deconstruction of buildings, in line with the principles of circular economy (Built4People Partnership)** — Horizon Europe
-- **Digital solutions to foster participative design, planning and management of buildings, neighbourhoods and urban districts (Built4People Partnership)** — Horizon Europe
-- **Smart, low-cost pervasive stationary slow charging and bi-directional solutions synergic with the grid for EV mass deployment (2ZERO Partnership)** — Horizon Europe
-- **Integration and testing of next generation post-800V electric powertrains (2ZERO Partnership)** — Horizon Europe
-- **Advanced battery system integration for next generation vehicles (2ZERO Partnership)** — Horizon Europe
-- **Integrated flexible multipoint megawatt charging systems for electric truck mass deployment (2ZERO Partnership) (2024)** — Horizon Europe
-- **Advanced digital development tools to accelerate the development of software defined vehicles that enable zero-emission mobility (2ZERO Partnership)** — Horizon Europe
-- **New designs, shapes, functionalities of Light Commercial Vehicles (2ZERO Partnership)** — Horizon Europe
-- **Accelerating climate neutral aviation, minimising non-CO2 emissions** — Horizon Europe
-- **Competitiveness and digital transformation in aviation – advancing further composite aerostructures** — Horizon Europe
-- **Impact monitoring of EU Aviation R&I** — Horizon Europe
-- **Towards a flying testbed for European leadership in aviation** — Horizon Europe
-- **Achieving high voltage, low weight, efficient electric powertrains for sustainable waterborne transport (ZEWT Partnership)** — Horizon Europe
-- **Combining state-of-the-art emission reduction and efficiency improvement technologies in ship design and retrofitting for contributing to the "Fit for 55" package objective by 2030 (ZEWT Partnership)** — Horizon Europe
-- **Demonstration of Technologies to minimise underwater noise generated by waterborne transport (ZEWT Partnership)** — Horizon Europe
-- **Demonstrating efficient fully DC electric grids within waterborne transport for large ship applications (ZEWT Partnership)** — Horizon Europe
-- **Advanced digitalisation and modelling utilizing operational and other data to support zero emission waterborne transport (ZEWT Partnership)** — Horizon Europe
-- **Structuring the Waterborne transport sector, including through changed business and industrial models in order to achieve commercial zero-emission waterborne transport (ZEWT Partnership)** — Horizon Europe
-- **Coordinating and supporting the combined activities of member and associated states towards the objectives of the Zero Emission Waterborne Transport partnership so as to increase synergies and impact (ZEWT Partnership)** — Horizon Europe
-- **Assessment of air pollutant emissions from low-carbon fuels in the heavy-duty, aviation, and maritime sectors** — Horizon Europe
-- **Supporting the All-Atlantic Ocean Research and Innovation Alliance and Declaration** — Horizon Europe
-- **Invasive alien species** — Horizon Europe
-- **Digital for nature** — Horizon Europe
-- **Dependence of society and the economy on pollinators** — Horizon Europe
-- **Biodiversity, economics and finance: Understanding macro-financial risks associated with biodiversity loss** — Horizon Europe
-- **Transformative action of policy mixes, governance and digitalisation addressing biodiversity loss** — Horizon Europe
-- **Promoting pollinator friendly farming systems** — Horizon Europe
-- **Reintroduction of landscape features in intensive agricultural areas** — Horizon Europe
-- **Conservation and protection of carbon-rich and biodiversity-rich forest ecosystems** — Horizon Europe
-- **Selective breeding programme for organic aquaculture** — Horizon Europe
-- **Demonstrating Nature-based Solutions for the sustainable management of water resources in a changing climate, with special attention to reducing the impacts of extreme droughts** — Horizon Europe
-- **Demonstrating the potential of Nature-based Solutions and the New European Bauhaus to contribute to sustainable, inclusive and resilient living spaces and communities** — Horizon Europe
-- **Promoting minor crops in farming systems** — Horizon Europe
-- **Improving irrigation practices and technologies in agriculture** — Horizon Europe
-- **Socio-economic, climate and environmental aspects of paludiculture** — Horizon Europe
-- **Paludiculture: large-scale demonstrations** — Horizon Europe
-- **Land use change and local / regional climate** — Horizon Europe
-- **Climate-smart use of wood in the construction sector to support the New European Bauhaus** — Horizon Europe
-- **Ocean models for seasonal to decadal regional climate impacts and feedbacks** — Horizon Europe
-- **EU-China international cooperation on improving monitoring for better integrated climate and biodiversity approaches, using environmental and Earth observation** — Horizon Europe
-- **Unlock the potential of the New European Bauhaus in urban food system transformation** — Horizon Europe
-- **Societal perceptions and benefits of rural life and jobs: will COVID 19 generate a long-lasting shift?** — Horizon Europe
-- **Participation and empowerment of Arctic coastal, local, and indigenous communities in environmental decision-making** — Horizon Europe
-- **Innovating for climate-neutral rural communities by 2050** — Horizon Europe
-- **New sustainable business and production models for farmers and rural communities** — Horizon Europe
-- **Circular Cities and Regions Initiative’s project development assistance (CCRI-PDA)** — Horizon Europe
-- **Targeting aquatic extremophiles for sourcing novel enzymes, drugs, metabolites and chemicals** — Horizon Europe
-- **Circular solutions for textile value chains based on extended producer responsibility** — Horizon Europe
-- **Innovative circular solutions for furniture** — Horizon Europe
-- **Systemic circular solutions for a sustainable tourism** — Horizon Europe
-- **Programmed biodegradation capability of bio-based materials and products, validated in specific environments** — Horizon Europe
-- **Digital information systems for bio-based products** — Horizon Europe
-- **Demonstrating the fair and just transition from GHG-intensive economies facing challenges towards circular bioeconomy model regions** — Horizon Europe
-- **Bioeconomy project development assistance** — Horizon Europe
-- **Circular bioeconomy start-up villages** — Horizon Europe
-- **Circular solutions for textile value chains through innovative sorting, recycling, and design for recycling** — Horizon Europe
-- **Increasing the circularity in plastics value chains** — Horizon Europe
-- **Increasing the circularity in electronics value chains** — Horizon Europe
-- **New circular solutions and decentralised approaches for water and wastewater management** — Horizon Europe
-- **Circular design of bio-based processes and products** — Horizon Europe
-- **From silos to diversity – small-scale bio-based demonstration pilots** — Horizon Europe
-- **Agro-pastoral/outdoor livestock systems and wildlife management** — Horizon Europe
-- **EU-African Union cooperation on agroforestry management for climate change adaptation and mitigation** — Horizon Europe
-- **EU-African Union – towards climate-neutral, social just fair trade food systems** — Horizon Europe
-- **New healthy and sustainable food products and processes** — Horizon Europe
-- **Thematic network tackling food fraud by translating research and innovation into practice** — Horizon Europe
-- **Climate change and food safety: effects of climate change on food safety across food systems** — Horizon Europe
-- **Creating smart and attractive tools to enhance healthy and sustainable food provision, eating and treating of food at home** — Horizon Europe
-- **Citizens’ science as an opportunity to foster the transition to sustainable food systems** — Horizon Europe
-- **Impact of the development of novel foods based on alternative sources of proteins** — Horizon Europe
-- **Preventing and reducing food waste to reduce environmental impacts and to help reach 2030 climate targets** — Horizon Europe
-- **Microbiome for flavour and texture in the organoleptic dietary shift** — Horizon Europe
-- **Increasing the availability and use of non-contentious inputs in organic farming** — Horizon Europe
-- **Sustainable organic food innovation labs: reinforcing the entire value chain** — Horizon Europe
-- **Tools to increase the effectiveness of EU import controls for plant health** — Horizon Europe
-- **Tackling outbreaks of plant pests** — Horizon Europe
-- **Animal nutritional requirements and nutritional value of feed under different production management conditions** — Horizon Europe
-- **Minimising climate impact on fisheries: mitigation and adaptation solutions for future climate regimes** — Horizon Europe
-- **Minimising climate impact on aquaculture: mitigation and adaptation solutions for future climate regimes** — Horizon Europe
-- **Additional activities for the European Partnership for a climate neutral, sustainable and productive Blue Economy** — Horizon Europe
-- **Organic farming thematic networks to compile and share knowledge ready for practice** — Horizon Europe
-- **Biodiversity thematic networks to compile and share knowledge ready for practice** — Horizon Europe
-- **Developing EU advisory networks on forestry** — Horizon Europe
-- **Developing EU advisory networks on sustainable livestock systems** — Horizon Europe
-- **Regional ecosystems of innovation to foster food system transformation** — Horizon Europe
-- **The role of mainstream media, social media and marketing in fostering healthy and sustainable consumption patterns and how to encourage good practices** — Horizon Europe
-- **Customisation/pre-operationalisation of prototypes end-user services in the area Climate Change Adaptation and Mitigation** — Horizon Europe
-- **Develop innovative applications to support the European Green Deal, building on meteorological satellite data** — Horizon Europe
-- **Enhancing working conditions and strengthening the work force through digital and data technologies – the potential of robotics and augmented reality in agriculture** — Horizon Europe
-- **Broaden EIP Operational Group outcomes across borders by means of thematic networks to compile and share knowledge ready for practice** — Horizon Europe
-- **Thematic networks to compile and share knowledge ready for practice** — Horizon Europe
-- **Demonstrating how regions can operate within safe ecological and regional nitrogen and phosphorus boundaries** — Horizon Europe
-- **Best available techniques to recover or recycle fertilising products from secondary raw materials** — Horizon Europe
-- **Environmental impacts of food systems** — Horizon Europe
-- **Holistic approaches for effective monitoring of water quality in urban areas** — Horizon Europe
-- **Innovative technologies for zero pollution, zero-waste biorefineries** — Horizon Europe
-- **EIC Accelerator Challenge: Novel biomarker-based assays to guide personalised cancer treatment** — Horizon Europe
-- **EIC Accelerator Challenge: Aerosol and surface decontamination for pandemic management** — Horizon Europe
-- **EIC Accelerator Challenge: Energy storage** — Horizon Europe
-- **EIC Accelerator Challenge: New European Bauhaus and Architecture, Engineering and Construction digitalisation for decarbonisation** — Horizon Europe
-- **EIC Accelerator Challenge: Emerging semiconductor or quantum technology components** — Horizon Europe
-- **EIC Accelerator Challenge: Novel technologies for resilient agriculture** — Horizon Europe
-- **EIC Accelerator Challenge: Customer-driven, innovative space technologies and services** — Horizon Europe
-- **EIC Accelerator Open 2023** — Horizon Europe
-- **EUIPA cat 1** — Horizon Europe
-- **EUIPA cat 2** — Horizon Europe
-- **The European Social Innovation Competition 2023** — Horizon Europe
-- **The EU Prize for Humanitarian Innovation** — Horizon Europe
-- **The European Capital of Innovation Awards iCapital 2023** — Horizon Europe
-- **The European Capital of Innovation Awards Rising 2023** — Horizon Europe
-- **EIC Pathfinder Challenge: Clean and efficient cooling** — Horizon Europe
-- **EIC Pathfinder Challenge: AEC digitalisation for a new triad of design, fabrication, and materials** — Horizon Europe
-- **EIC Pathfinder Challenge: Precision Nutrition** — Horizon Europe
-- **EIC Pathfinder Challenge: Responsible Electronics** — Horizon Europe
-- **EIC Pathfinder Challenge: In-space solar energy harvesting for innovative space applications** — Horizon Europe
-- **EIC Transition Challenge: Full scale Micro-Nano-Bio devices for medical and medical research applications** — Horizon Europe
-- **EIC Transition Challenge: Environmental Intelligence** — Horizon Europe
-- **EIC Transition Challenge: Chip-scale optical frequency combs** — Horizon Europe
-- **Transition Open 2023** — Horizon Europe
-- **Stimulating Experimentation Practices** — Horizon Europe
-- **Specialist Advisory Services to build capacities on innovation procurement** — Horizon Europe
-- **Implementing co-funded action plans for connected regional innovation valleys** — Horizon Europe
-- **The African Union-European Union Innovation Platform** — Horizon Europe
-- **Startup Europe** — Horizon Europe
-- **Expanding Academia-Enterprise Collaborations** — Horizon Europe
-- **Mutual learning and support scheme for national and regional innovation programmes** — Horizon Europe
-- **Culture and Creativity Business Plan 2024-2025** — Horizon Europe
-- **Safety of operating nuclear power plants and research reactors** — Euratom
-- **Safety of light water small modular reactors (LW-SMRs)** — Euratom
-- **Safety of advanced and innovative nuclear designs** — Euratom
-- **Co-funded European partnership for research in nuclear materials** — Euratom
-- **Partitioning and transmutation of minor actinides towards industrial applications** — Euratom
-- **Improved nuclear data for the safety of energy and non-energy applications of ionising radiation** — Euratom
-- **Innovative technologies for safety and excellence in decommissioning, including robotics and artificial intelligence** — Euratom
-- **Safety of low enriched fuel for research reactors - securing the supply of medical radioisotopes** — Euratom
-- **Nuclear and radiation techniques for EU strategic autonomy, circular economy and climate change policies** — Euratom
-- **Harnessing innovation in nuclear science, technology and radiation protection** — Euratom
-- **Preparatory phase for a European production capability to secure a supply of high-assay low-enriched uranium (HALEU) fuel** — Euratom
-- **Framework Partnership Agreement (FPA) for developing a large-scale European initiative for High Performance Computing (HPC) ecosystem based on RISC-V** — Horizon Europe
-- **Call on Centres Of Excellence For Exascale HPC Applications** — Horizon Europe
-- **European Partnership on Rare Diseases** — Horizon Europe
-- **Access to health and care services for people in vulnerable situations** — Horizon Europe
-- **Comparative effectiveness research for healthcare interventions in areas of high public health need** — Horizon Europe
-- **Pandemic preparedness and response: Adaptive platform trials for pandemic preparedness** — Horizon Europe
-- **Validation of fluid-derived biomarkers for the prediction and prevention of brain disorders** — Horizon Europe
-- **Tackling high-burden for patients, under-researched medical conditions** — Horizon Europe
-- **Pandemic preparedness and response: Maintaining the European partnership for pandemic preparedness** — Horizon Europe
-- **Pandemic preparedness and response: Host-pathogen interactions of infectious diseases with epidemic potential** — Horizon Europe
-- **European Partnership: One Health Anti-Microbial Resistance** — Horizon Europe
-- **The role of environmental pollution in non-communicable diseases: air, noise and light and hazardous waste pollution** — Horizon Europe
-- **Developing EU methodological frameworks for clinical/performance evaluation and post-market clinical/performance follow-up of medical devices and in vitro diagnostic medical devices (IVDs)** — Horizon Europe
-- **Gaining experience and confidence in New Approach Methodologies (NAM) for regulatory safety and efficacy testing – coordinated training and experience exchange for regulators** — Horizon Europe
-- **Towards a holistic support to children and adolescents’ health and care provisions in an increasingly digital society** — Horizon Europe
-- **Personalised prevention of non-communicable diseases - addressing areas of unmet needs using multiple data sources** — Horizon Europe
-- **Innovative non-animal human-based tools and strategies for biomedical research** — Horizon Europe
-- **Bio-printing of living cells for regenerative medicine** — Horizon Europe
-- **Research infrastructure concept development** — Horizon Europe
-- **Strengthen the bilateral cooperation on research infrastructures with Africa** — Horizon Europe
-- **Consolidation of the RI landscape – Individual support for evolution, long term sustainability and emerging needs of pan-European research infrastructures** — Horizon Europe
-- **FAIR and open data sharing in support of the mission adaptation to climate change** — Horizon Europe
-- **Supporting the EOSC Partnership in further consolidating the coordination and sustainability of the EOSC ecosystem** — Horizon Europe
-- **Enabling a network of EOSC federated and trustworthy repositories and enhancing the framework of generic and discipline specific services for data and other research digital objects** — Horizon Europe
-- **Long-term access and preservation infrastructure development for EOSC, including data quality aspects** — Horizon Europe
-- **Innovative and customizable services for EOSC Exchange** — Horizon Europe
-- **R&D for the next generation of scientific instrumentation, tools, methods, solutions for RI upgrade** — Horizon Europe
-- **Development of tools, solutions, modules to enable R&I on the social aspects of the green transition** — Horizon Europe
-- **New digital twins for Destination Earth** — Horizon Europe
-- **AR/VR-empowered digital twins for modelling complex phenomena in new RI application areas** — Horizon Europe
-- **Small scale biorefining in rural areas** — Horizon Europe
-- **Production of safe, sustainable, and efficient bio-based fertilisers to improve soil health and quality** — Horizon Europe
-- **Improve fermentation processes (including downstream purification) to final bio-based products** — Horizon Europe
-- **Recycling bio-based plastics increasing sorting and recycled content (upcycling).** — Horizon Europe
-- **Development of scalable, safe bio-based surfactants, with an improved sustainability profile** — Horizon Europe
-- **Selective, sustainable production routes towards bio-based alternatives to fossil-based chemical building blocks** — Horizon Europe
-- **High performance, circular-by design, biobased composites** — Horizon Europe
-- **Optimised and integrated wood-based value chains** — Horizon Europe
-- **Expansion and/or retro-fitting of biorefineries towards higher-value bio-based chemicals and intermediates** — Horizon Europe
-- **Bio-based packaging materials with improved properties: barrier, food contact, forming, printability, safety, recyclability /circularity-by-design** — Horizon Europe
-- **Valorisation of aquatic biomass waste and residues** — Horizon Europe
-- **Phyto-management; curing soil with industrial crops, utilising contaminated and saline land for industrial crop production** — Horizon Europe
-- **Optimised forest-based value chains for high value applications and improved forest management** — Horizon Europe
-- **Robust and optimised industrial biotech and chemical/industrial biotech processes** — Horizon Europe
-- **Development of novel, high-performance bio-based polymers and co-polymers** — Horizon Europe
-- **Pre-normative research to develop standards for biodegradability of bio-based products in controlled and in open environments** — Horizon Europe
-- **EU-wide network of pilot plants and testing facilities, improving SMEs and start-ups' access to scale-up** — Horizon Europe
-- **Supporting the capacity of regions in environmental sustainability assessment for the bio-based sectors** — Horizon Europe
-- **Global Health EDCTP3 Training Networks - Clinical Research Fellowships** — Horizon Europe
-- **Funding to successfully finalise EDCTP2-funded clinical trials that were negatively impacted by the COVID-19 pandemic** — Horizon Europe
-- **Implementation research/real life assessment of existing interventions in women and children’s health** — Horizon Europe
-- **Research to rapidly evaluate interventions on Ebola outbreaks in sub-Saharan Africa** — Horizon Europe
-- **Strengthening ethics and regulatory capacity** — Horizon Europe
-- **Improving modes of delivery, deployment, and uptake of vaccines through phase IV/implementation research** — Horizon Europe
-- **Advancing point-of-care diagnostics to the market** — Horizon Europe
-- **Associating Ukrainian cities to the Climate-neutral and smart cities Mission** — Horizon Europe
-- **Testing and demonstrating transformative solutions increasing climate resilience of the agriculture and/or forestry sector.** — Horizon Europe
-- **Testing and demonstrating transformative solutions to protect critical infrastructure from climate change, mainstreaming nature based solutions.** — Horizon Europe
-- **Testing and demonstrating transformative solutions to build resilience towards health risks caused by the effects of climate change** — Horizon Europe
-- **Mission Climate adaptation, Mission Ocean & waters and Mission Soil Deal for Europe – Joint demonstration of an integrated approach to increasing landscape water retention capacity at regional scale** — Horizon Europe
-- **European Blue Parks – Protection and restoration of marine habitats** — Horizon Europe
-- **Danube river basin lighthouse – Demonstration of effective and sustainable management of sediments in the Danube river-Black sea system** — Horizon Europe
-- **Atlantic and Arctic sea basin lighthouse – Addressing climate change and human activities threats to marine biodiversity** — Horizon Europe
-- **European natural lakes: demonstration of integrated approaches for protection and restoration of natural lake ecosystems and their biodiversity** — Horizon Europe
-- **Lighthouse in the Baltic and the North Sea basins - Lighthouse in the Baltic and the North Sea basins - Green and energy-efficient small-scale fishing fleets** — Horizon Europe
-- **Cross-basin topic - Innovative nature-inclusive concepts to reconcile offshore renewables with ocean protection** — Horizon Europe
-- **Cross-basin topic - Analysis of the obstacles and opportunities for repurposing aged/unused offshore infrastructures** — Horizon Europe
-- **Integration of socio-ecological models into the Digital Twin Ocean** — Horizon Europe
-- **Roadmap towards the integration of inland waters into the Digital Twin Ocean** — Horizon Europe
-- **Choose your fish: a campaign for responsible consumption of products from the sea** — Horizon Europe
-- **Ocean & water and arts: the contribution of creative sectors to Mission Ocean and waters** — Horizon Europe
-- **Mission Ocean and Waters and Mission A Soil Deal for Europe – Joint demonstration of approaches and solutions to address nutrient pollution in the landscape-river-sea system in the Mediterranean sea basin** — Horizon Europe
-- **Discovering the subsoil** — Horizon Europe
-- **Soil pollution processes – modelling and inclusion in advanced digital decision-support tools** — Horizon Europe
-- **Onsite digital technologies to monitor nutrients and chemical or biological stressors in soil and plants with relevance for food safety and nutrition** — Horizon Europe
-- **Innovations to prevent and combat desertification** — Horizon Europe
-- **Soil-friendly practices in horticulture, including alternative growing media** — Horizon Europe
-- **Soils in spatial planning** — Horizon Europe
-- **Back to earth: bringing communities and citizens closer to soil** — Horizon Europe
-- **Co-creating solutions for soil health in Living Labs** — Horizon Europe
-- **Carbon farming in living labs** — Horizon Europe
-- **European Researchers' Night and Researchers at Schools 2024-2025** — Horizon Europe
-- **MSCA COFUND 2023** — Horizon Europe
-- **MSCA Doctoral Networks 2023** — Horizon Europe
-- **MSCA Feedback To Policy 2023** — Horizon Europe
-- **MSCA Postdoctoral Fellowships 2023** — Horizon Europe
-- **MSCA Staff Exchanges 2023** — Horizon Europe
-- **MSCA Doctoral Networks 2024** — Horizon Europe
-- **MSCA International Cooperation 2024** — Horizon Europe
-- **Trans-national cooperation among Marie Skłodowska-Curie National Contact Points (NCP) 2024** — Horizon Europe
-- **MSCA Postdoctoral Fellowships 2024** — Horizon Europe
-- **MSCA Researchers at Risk 2024** — Horizon Europe
-- **MSCA Staff Exchanges 2024** — Horizon Europe
-- **Twinning Bottom-Up** — Horizon Europe
-- **Twinning Green Deal** — Horizon Europe
-- **Pathways to Synergies** — Horizon Europe
-- **Dissemination and Exploitation Support Facility** — Horizon Europe
-- **Hop on Facility** — Horizon Europe
-- **Excellence Hubs** — Horizon Europe
-- **ERA Chairs** — Horizon Europe
-- **ERA Fellowships** — Horizon Europe
-- **Programme level collaboration between national R&I policy-makers** — Horizon Europe
-- **Support for the professionalisation of research management** — Horizon Europe
-- **Strengthening researchers’ skills for better careers – leveraging the European Competence Framework for Researchers** — Horizon Europe
-- **Experimentation and exchange of good practices for value creation** — Horizon Europe
-- **Capacity building on Intellectual Property (IP) management to support open science** — Horizon Europe
-- **Global cooperation in not-for-profit open access publishing** — Horizon Europe
-- **Support to the development and implementation of policies and practices for reproducibility of scientific results** — Horizon Europe
-- **Policy coordination to support all aspects of inclusive Gender Equality Plans and policies in the ERA** — Horizon Europe
-- **Support to the implementation of inclusive gender equality plans** — Horizon Europe
-- **Next generation AI and Human Behaviour: promoting an ethical approach** — Horizon Europe
-- **ERA Talents** — Horizon Europe
-- **Interregional Innovation Investments Strand 1** — I3
-- **Interregional Innovation Investments Strand 2a** — I3
-- **DATA** — Internal Security Fund (ISF)
-- **Innovation Fund Small Scale Projects** — Innovation Fund (INNOVFUND)
-- **PSLF-LOAN SCHEMES** — Just Transition Mechanism (JTM)
-- **PSLF-PROJECTS** — Just Transition Mechanism (JTM)
-- **Call for proposals for action grants to support transnational projects in the fields of e-Justice, victims’ rights and procedural rights** — JUST
-- **Energy Performance of Buildings - Creating the conditions to make renovation faster, deeper, smarter, service- and data-driven** — 43252405
-- **BUILD UP Skills – Upskilling and reskilling interventions enabling a decarbonised building stock and energy system integration** — 43252405
-- **Supporting the clean energy transition of European businesses** — 43252405
-- **District heating and cooling: Enabling modernisation and fuel switch through support for investment plans and skills development** — 43252405
-- **European Energy Communities Facility** — 43252405
-- **Alleviating household energy poverty and vulnerability in Europe** — 43252405
-- **Maximising use of and valorising EPREL data through innovative applications** — 43252405
-- **Boosting heat pump deployment through alternative models and skilled installers** — 43252405
-- **Technical support to clean energy transition plans and strategies in municipalities and regions** — 43252405
-- **Integrated services for clean energy transition in buildings and businesses** — 43252405
-- **Project Development Assistance for sustainable energy investments** — 43252405
-- **Towards an effective implementation of key legislation in the field of sustainable energy** — 43252405
-- **Crowding in private finance** — 43252405
-- **Projects to support Bauhaus, the Phoenix initiative and the Emerald Network** — 43252405
-- **Vehicle-to-grid (V2G) integration – Development of national incentivising framework for the integration of Electric Vehicles as home / building energy storage, in energy communities and in national grids** — 43252405
-- **Implementation of the Ecodesign, Energy labelling and Tyre labelling policy** — 43252405
-- **Nature & Biodiversity and Circular Economy & Quality of Life** — 43252405
-- **Climate Change Adaptation** — 43252405
-- **Climate Change Mitigation** — 43252405
-- **Climate Governance and Information** — 43252405
-- **Circular Economy, resources from Waste, Air, Water, Soil, Noise, Chemicals, Bauhaus** — 43252405
-- **Environment governance** — 43252405
-- **Nature Governance** — 43252405
-- **Nature and Biodiversity** — 43252405
-- **Strategic Integrated Projects - Climate Action** — 43252405
-- **Strategic Integrated Projects - Environment** — 43252405
-- **Technical Assistance preparation of CLIMA SIPs** — 43252405
-- **Technical Assistance preparation of ENV SIPs** — 43252405
-- **Technical Assistance preparation of SNAPs** — 43252405
-- **Technical Assistance - Replication - Nature & Biodiversity and Circular Economy & Quality of Life** — 43252405
-- **Intra-Africa Academic Mobility Scheme** — 45876777
-- **Protection of the euro against counterfeiting** — Pericles IV
-- **Renewable Energy Financing Mechanism Technology specific - Solar PV** — RENEWFM
-- **SMP-CONS-2023-ADR** — Single Market Programme (SMP)
-- **Enterprise Europe Network Energy Efficiency Action** — Single Market Programme (SMP)
-- **Information and training measures for workers' organisations** — SOCPL
-- **Support for social dialogue** — SOCPL
+- **Skills Hubs of Excellence**
+  Digital Europe Programme · DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants · Deadline: 2026-09-24
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-SKILLS-HOE-SG
+
+- **Pilot Federation**
+  Digital Europe Programme · DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants · Deadline: 2026-09-24
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-SKILLS-PF-SG
+
+- **Stimulation of Chip Design**
+  Digital Europe Programme · CSA · Deadline: 2026-09-24
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-SKILLS-SCD-CSA
+
+- **Supply chain resilience CSA**
+  Horizon Europe · CSA · Deadline: 2026-09-22
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-2-CSA
+
+- **RIA Resilience call reinforcing Europe's strength in 6G radio communication systems**
+  Horizon Europe · RIA · Deadline: 2026-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-2-RIA
+
+- **Call with Digital Partnership and TTC countries**
+  Horizon Europe · RIA · Deadline: 2026-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-3-RIA
+
+- **IA Resilience call reinforcing Europe's strenght in power electronics**
+  Horizon Europe · IA · Deadline: 2026-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-FT1-IA
+
+- **IA Resilience call reinforcing Europe's strength in photonics**
+  Horizon Europe · IA · Deadline: 2026-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-FT2-IA
+
+- **IA Resilience call reinforcing Europe's strenght in health**
+  Horizon Europe · IA · Deadline: 2026-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-FT3-IA
+
+- **Impact Monitoring and Assessment Framework for the Chips JU**
+  Horizon Europe · CSA · Deadline: 2026-09-30
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-IMAF-CSA
+
+- **Coordination of the European software-defined vehicle platform**
+  Horizon Europe · CSA · Deadline: 2026-09-22
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CHIPS-2026-SDV-CSA
+
+## Calls removed (1)
+
+- **Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)** — Horizon Europe · Deadline: 2026-09-15
 
 ## Distribution by thematic area (new dataset)
 
@@ -620,8 +82,8 @@
 | Climate, Energy & Mobility | 180 |
 | Food, Bioeconomy & Environment | 103 |
 | Culture, Creativity & Inclusion | 86 |
-| Digital, Industry & Space | 71 |
-| Security & Resilience | 48 |
+| Digital, Industry & Space | 85 |
+| Security & Resilience | 47 |
 | Health & Life Sciences | 37 |
 | Defence | 37 |
 | Climate-neutral & Smart Cities | 19 |
