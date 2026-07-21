@@ -1,51 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-20 06:09:53.73
+**Last updated:** 2026-07-21 05:47:46.56
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 626 |
-| Total calls (previous) | 619 |
-| **New calls added** | **7** |
+| Total calls (previous) | 626 |
+| **New calls added** | **0** |
 | Calls removed (expired/closed) | 0 |
 
-## Calls added (7)
+## Calls added
 
-### Digital, Industry & Space (1)
-
-- **Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs**
-  Digital Europe Programme · CSA · Deadline: 2026-10-01
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS
-
-### Food, Bioeconomy & Environment (2)
-
-- **Strategic Integrated Projects - Climate Action**
-  43252405 · LIFE-PJG LIFE Project Grants · Deadline: 2027-03-04
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-CLIMA-SIP-two-stage
-
-- **Strategic Nature Projects**
-  43252405 · LIFE-PJG LIFE Project Grants · Deadline: 2027-03-04
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-NAT-SNAP-two-stage
-
-### Health & Life Sciences (4)
-
-- **Prevention and management of chronic non-communicable diseases in children and young people (GACD)**
-  Horizon Europe · RIA · Deadline: 2027-04-13
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-10
-
-- **Tools and technologies to support health adaptation to climate change**
-  Horizon Europe · HORIZON-PCP HORIZON Pre-commercial Procurement · Deadline: 2027-04-13
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03
-
-- **Innovative healthcare interventions for non-communicable diseases**
-  Horizon Europe · RIA · Deadline: 2027-09-22
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-DISEASE-01-two-stage
-
-- **Portable and versatile Point-of-care diagnostics**
-  Horizon Europe · IA · Deadline: 2027-09-22
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-IND-02-two-stage
+No new calls compared to the previous snapshot.
 
 ## Distribution by thematic area (new dataset)
 
