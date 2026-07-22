@@ -1,19 +1,23 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-21 05:47:46.56
+**Last updated:** 2026-07-22 05:55:30.13
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 626 |
+| Total calls (new) | 627 |
 | Total calls (previous) | 626 |
-| **New calls added** | **0** |
+| **New calls added** | **1** |
 | Calls removed (expired/closed) | 0 |
 
-## Calls added
+## Calls added (1)
 
-No new calls compared to the previous snapshot.
+### External Action & International Cooperation (1)
+
+- **Scientific and technical assistance on a foresight activity in the field of plant health to enhance crisis preparedness for the EU territory.**
+  EUBA · EUBA EUBA Type of Action · Deadline: 2026-10-07
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2026-PLANTS-01
 
 ## Distribution by thematic area (new dataset)
 
@@ -29,4 +33,4 @@ No new calls compared to the previous snapshot.
 | Climate-neutral & Smart Cities | 19 |
 | SME, Entrepreneurship & Market Uptake | 16 |
 | Internships, fellowships & scholarships | 11 |
-| External Action & International Cooperation | 2 |
+| External Action & International Cooperation | 3 |
