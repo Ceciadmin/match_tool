@@ -1,23 +1,23 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-22 05:55:30.13
+**Last updated:** 2026-07-23 05:58:36.21
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 627 |
-| Total calls (previous) | 626 |
+| Total calls (new) | 628 |
+| Total calls (previous) | 627 |
 | **New calls added** | **1** |
 | Calls removed (expired/closed) | 0 |
 
 ## Calls added (1)
 
-### External Action & International Cooperation (1)
+### Internships, fellowships & scholarships (1)
 
-- **Scientific and technical assistance on a foresight activity in the field of plant health to enhance crisis preparedness for the EU territory.**
-  EUBA · EUBA EUBA Type of Action · Deadline: 2026-10-07
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2026-PLANTS-01
+- **ERC Starting Grant**
+  Horizon Europe · HORIZON-ERC HORIZON ERC Grants · Deadline: 2026-10-14
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERC-2027-STG
 
 ## Distribution by thematic area (new dataset)
 
@@ -28,9 +28,10 @@
 | Culture, Creativity & Inclusion | 89 |
 | Digital, Industry & Space | 84 |
 | Security & Resilience | 48 |
-| Health & Life Sciences | 37 |
 | Defence | 37 |
+| Health & Life Sciences | 36 |
 | Climate-neutral & Smart Cities | 19 |
 | SME, Entrepreneurship & Market Uptake | 16 |
-| Internships, fellowships & scholarships | 11 |
+| Internships, fellowships & scholarships | 12 |
 | External Action & International Cooperation | 3 |
+| Cross-cutting / Other | 1 |
