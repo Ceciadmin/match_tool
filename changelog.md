@@ -1,35 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-26 05:59:50.59
+**Last updated:** 2026-07-27 06:18:50.60
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 627 |
-| Total calls (previous) | 623 |
-| **New calls added** | **4** |
+| Total calls (previous) | 627 |
+| **New calls added** | **0** |
 | Calls removed (expired/closed) | 0 |
 
-## Calls added (4)
+## Calls added
 
-### Health & Life Sciences (4)
-
-- **Development of novel small molecule antiviral therapeutics for pathogens with epidemic potential**
-  Horizon Europe · RIA · Deadline: 2027-04-13
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-05
-
-- **Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses**
-  Horizon Europe · RIA · Deadline: 2027-04-13
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-07
-
-- **Development of innovative antimicrobials against pathogens resistant to antimicrobials**
-  Horizon Europe · RIA · Deadline: 2027-04-13
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-08
-
-- **Addressing disabilities through the life course to support independent living and inclusion**
-  Horizon Europe · RIA · Deadline: 2027-04-13
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-STAYHLTH-01
+No new calls compared to the previous snapshot.
 
 ## Distribution by thematic area (new dataset)
 
