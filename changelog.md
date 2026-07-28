@@ -1,19 +1,23 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-27 06:18:50.60
+**Last updated:** 2026-07-28 05:44:38.84
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 627 |
+| Total calls (new) | 626 |
 | Total calls (previous) | 627 |
 | **New calls added** | **0** |
-| Calls removed (expired/closed) | 0 |
+| Calls removed (expired/closed) | 1 |
 
 ## Calls added
 
 No new calls compared to the previous snapshot.
+
+## Calls removed (1)
+
+- **Understanding the forms of local democracy in low-income and low-middle income countries** — Horizon Europe · Deadline: 2026-09-23
 
 ## Distribution by thematic area (new dataset)
 
@@ -21,7 +25,7 @@ No new calls compared to the previous snapshot.
 |---|---|
 | Climate, Energy & Mobility | 180 |
 | Food, Bioeconomy & Environment | 103 |
-| Culture, Creativity & Inclusion | 88 |
+| Culture, Creativity & Inclusion | 87 |
 | Digital, Industry & Space | 84 |
 | Security & Resilience | 48 |
 | Health & Life Sciences | 37 |
