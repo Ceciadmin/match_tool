@@ -1,23 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-29 05:54:07.91
+**Last updated:** 2026-07-30 05:39:28.20
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 627 |
-| Total calls (previous) | 626 |
-| **New calls added** | **1** |
+| Total calls (previous) | 627 |
+| **New calls added** | **0** |
 | Calls removed (expired/closed) | 0 |
 
-## Calls added (1)
+## Calls added
 
-### Culture, Creativity & Inclusion (1)
-
-- **Understanding the forms of local democracy in low-income and low-middle income countries**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-02
+No new calls compared to the previous snapshot.
 
 ## Distribution by thematic area (new dataset)
 
