@@ -1,13 +1,13 @@
 # Changelog calls.json
 
-**Last updated:** 2026-07-31 06:03:03.74
+**Last updated:** 2026-08-01 06:04:29.51
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 626 |
-| Total calls (previous) | 627 |
+| Total calls (new) | 625 |
+| Total calls (previous) | 626 |
 | **New calls added** | **0** |
 | Calls removed (expired/closed) | 1 |
 
@@ -17,13 +17,13 @@ No new calls compared to the previous snapshot.
 
 ## Calls removed (1)
 
-- **Empowering youth in the EU Outermost Regions – YOUTH 4 OUTERMOST REGIONS (#YOUTH4ORS)** — 46324255 · Deadline: 2026-07-30
+- **Regional (sea-basins) components of the EU Digital Twin Ocean** — Horizon Europe · Deadline: 2026-09-23
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 180 |
+| Climate, Energy & Mobility | 179 |
 | Food, Bioeconomy & Environment | 103 |
 | Culture, Creativity & Inclusion | 87 |
 | Digital, Industry & Space | 84 |
