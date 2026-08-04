@@ -1,36 +1,41 @@
 # Changelog calls.json
 
-**Last updated:** 2026-08-03 06:16:25.41
+**Last updated:** 2026-08-04 05:42:20.40
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 625 |
+| Total calls (new) | 620 |
 | Total calls (previous) | 625 |
 | **New calls added** | **1** |
-| Calls removed (expired/closed) | 1 |
+| Calls removed (expired/closed) | 6 |
 
 ## Calls added (1)
 
-### Digital, Industry & Space (1)
+### Climate, Energy & Mobility (1)
 
-- **Factory processes and automation for de- and re-manufacturing (RIA) (Made in Europe partnership)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-03
+- **Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)**
+  Horizon Europe · IA · Deadline: 2027-04-14
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-05
 
-## Calls removed (1)
+## Calls removed (6)
 
-- **Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)** — Horizon Europe · Deadline: 2027-04-14
+- **Tackling gender-based violence against politically active women and LGBTIQ people** — Horizon Europe · Deadline: 2026-09-23
+- **Government in transition – how governments change the way they work and prepare the civil service for the future** — Horizon Europe · Deadline: 2026-09-23
+- **Supporting post-conflict democracy and reconstruction** — Horizon Europe · Deadline: 2026-09-23
+- **Digital and media literacy as drivers for democratic and civic resilience** — Horizon Europe · Deadline: 2026-09-23
+- **Tackling child poverty and ensuring disadvantaged children's access to Early Childhood Education and Care** — Horizon Europe · Deadline: 2026-09-23
+- **The impact of the use of digital tools outside school and for communication on educational outcomes and mental health** — Horizon Europe · Deadline: 2026-09-23
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 179 |
+| Climate, Energy & Mobility | 180 |
 | Food, Bioeconomy & Environment | 103 |
-| Culture, Creativity & Inclusion | 87 |
 | Digital, Industry & Space | 84 |
+| Culture, Creativity & Inclusion | 81 |
 | Security & Resilience | 48 |
 | Health & Life Sciences | 37 |
 | Defence | 37 |
