@@ -1,48 +1,24 @@
 # Changelog calls.json
 
-**Last updated:** 2026-08-05 05:50:06.91
+**Last updated:** 2026-08-06 05:45:34.62
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 624 |
-| Total calls (previous) | 620 |
-| **New calls added** | **6** |
+| Total calls (new) | 622 |
+| Total calls (previous) | 624 |
+| **New calls added** | **0** |
 | Calls removed (expired/closed) | 2 |
 
-## Calls added (6)
+## Calls added
 
-### Culture, Creativity & Inclusion (6)
-
-- **Tackling gender-based violence against politically active women and LGBTIQ people**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-01
-
-- **Government in transition – how governments change the way they work and prepare the civil service for the future**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-03
-
-- **Supporting post-conflict democracy and reconstruction**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-07
-
-- **Digital and media literacy as drivers for democratic and civic resilience**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-10
-
-- **Tackling child poverty and ensuring disadvantaged children's access to Early Childhood Education and Care**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-03
-
-- **The impact of the use of digital tools outside school and for communication on educational outcomes and mental health**
-  Horizon Europe · RIA · Deadline: 2026-09-23
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-04
+No new calls compared to the previous snapshot.
 
 ## Calls removed (2)
 
-- **The European Capital of Innovation Award iCapital Category HORIZON-EIC-2026-ICAPITAL** — Horizon Europe · Deadline: 2026-08-04
-- **The European Capital of Innovation Award Rising Innovator Category HORIZON-EIC-2026-PRIZE-ICAPITAL** — Horizon Europe · Deadline: 2026-08-04
+- **Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)** — Horizon Europe · Deadline: 2027-09-02
+- **MSCA Staff Exchanges 2027** — Horizon Europe · Deadline: 2027-04-15
 
 ## Distribution by thematic area (new dataset)
 
@@ -51,11 +27,11 @@
 | Climate, Energy & Mobility | 180 |
 | Food, Bioeconomy & Environment | 103 |
 | Culture, Creativity & Inclusion | 87 |
-| Digital, Industry & Space | 84 |
+| Digital, Industry & Space | 83 |
 | Security & Resilience | 48 |
 | Health & Life Sciences | 37 |
 | Defence | 37 |
 | Climate-neutral & Smart Cities | 19 |
 | SME, Entrepreneurship & Market Uptake | 14 |
-| Internships, fellowships & scholarships | 12 |
+| Internships, fellowships & scholarships | 11 |
 | External Action & International Cooperation | 3 |
