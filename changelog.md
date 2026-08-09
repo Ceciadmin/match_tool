@@ -1,33 +1,28 @@
 # Changelog calls.json
 
-**Last updated:** 2026-08-08 04:06:39.10
+**Last updated:** 2026-08-09 04:28:08.95
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 624 |
-| Total calls (previous) | 621 |
-| **New calls added** | **3** |
-| Calls removed (expired/closed) | 0 |
+| Total calls (new) | 618 |
+| Total calls (previous) | 624 |
+| **New calls added** | **0** |
+| Calls removed (expired/closed) | 6 |
 
-## Calls added (3)
+## Calls added
 
-### Digital, Industry & Space (2)
+No new calls compared to the previous snapshot.
 
-- **Digital solutions for regulatory compliance through data**
-  Digital Europe Programme · DIGITAL-LS DIGITAL Lump Sum Grants · Deadline: 2026-10-01
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-DATA-10-COMPLIANCE
+## Calls removed (6)
 
-- **Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)**
-  Horizon Europe · RIA · Deadline: 2027-09-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-02-MAT-PROD-32-two-stage
-
-### Food, Bioeconomy & Environment (1)
-
-- **Strategic Integrated Projects - Environment**
-  43252405 · LIFE-PJG LIFE Project Grants · Deadline: 2027-03-04
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage
+- **Tackling gender-based violence against politically active women and LGBTIQ people** — Horizon Europe
+- **Government in transition – how governments change the way they work and prepare the civil service for the future** — Horizon Europe · Deadline: 2026-09-23
+- **Supporting post-conflict democracy and reconstruction** — Horizon Europe · Deadline: 2026-09-23
+- **Digital and media literacy as drivers for democratic and civic resilience** — Horizon Europe · Deadline: 2026-09-23
+- **Tackling child poverty and ensuring disadvantaged children's access to Early Childhood Education and Care** — Horizon Europe · Deadline: 2026-09-23
+- **The impact of the use of digital tools outside school and for communication on educational outcomes and mental health** — Horizon Europe · Deadline: 2026-09-23
 
 ## Distribution by thematic area (new dataset)
 
@@ -35,8 +30,8 @@
 |---|---|
 | Climate, Energy & Mobility | 180 |
 | Food, Bioeconomy & Environment | 103 |
-| Culture, Creativity & Inclusion | 87 |
 | Digital, Industry & Space | 84 |
+| Culture, Creativity & Inclusion | 81 |
 | Security & Resilience | 48 |
 | Health & Life Sciences | 37 |
 | Defence | 37 |
