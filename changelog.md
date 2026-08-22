@@ -1,24 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-08-21 03:43:55.51
+**Last updated:** 2026-08-22 03:35:29.62
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 630 |
-| Total calls (previous) | 632 |
+| Total calls (previous) | 630 |
 | **New calls added** | **0** |
-| Calls removed (expired/closed) | 2 |
+| Calls removed (expired/closed) | 0 |
 
 ## Calls added
 
 No new calls compared to the previous snapshot.
-
-## Calls removed (2)
-
-- **Low power Edge AI Chips** — Horizon Europe
-- **Support to awareness raising about the Arctic communities, including Indigenous People** — EMFAF · Deadline: 2026-08-20
 
 ## Distribution by thematic area (new dataset)
 
