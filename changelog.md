@@ -1,32 +1,373 @@
 # Changelog calls.json
 
-**Last updated:** 2026-08-25 03:40:05.83
+**Last updated:** 2026-08-26 03:56:27.79
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 630 |
+| Total calls (new) | 293 |
 | Total calls (previous) | 630 |
 | **New calls added** | **0** |
-| Calls removed (expired/closed) | 0 |
+| Calls removed (expired/closed) | 337 |
 
 ## Calls added
 
 No new calls compared to the previous snapshot.
 
+## Calls removed (337)
+
+- **Quality Label Humanitarian Aid - Full Procedure** — European Solidarity Corps (ESC)
+- **Support for the revision of the guidance document on terrestrial ecotoxicology (SANCO/10329/2002) including the development of an approach for indirect effects** — EUBA
+- **Electricity, Gas, Smart Grids, Hydrogen and CO₂ networks - Studies** — Connecting Europe Facility (CEF) · Deadline: 2026-09-30
+- **Electricity, Gas, Smart Grids, Hydrogen and CO₂ networks - Works** — Connecting Europe Facility (CEF) · Deadline: 2026-09-30
+- **European mini-slate development** — Creative Europe (CREA) · Deadline: 2026-09-17
+- **Digital solutions for regulatory compliance through data** — Digital Europe Programme · Deadline: 2026-10-01
+- **Apply AI: Piloting AI-based image screening in medical centres** — Digital Europe Programme · Deadline: 2026-10-01
+- **Building capacity to deploy the EEHRxF and digital health services and systems to support the rights of citizens and reuse of health data under EHDS** — Digital Europe Programme · Deadline: 2026-10-01
+- **Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)** — Digital Europe Programme · Deadline: 2026-10-01
+- **Support to the implementation of Multi-Country Projects: EDIC Support Hub** — Digital Europe Programme · Deadline: 2026-10-01
+- **Research Support Framework for Situational Awareness on information integrity** — Digital Europe Programme · Deadline: 2026-10-01
+- **Advanced Digital Skills for AI Uptake in Health** — Digital Europe Programme · Deadline: 2026-10-01
+- **EdTech Accelerator** — Digital Europe Programme · Deadline: 2026-10-01
+- **Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs** — Digital Europe Programme · Deadline: 2026-10-01
+- **Support to Dissemination and Exploitation (D&E) for the Digital Europe Programme** — Digital Europe Programme · Deadline: 2026-10-01
+- **International collaboration EU and Japan on semiconductors** — Digital Europe Programme · Deadline: 2026-09-24
+- **Pilot Federation** — Digital Europe Programme · Deadline: 2026-09-24
+- **Stimulation of Chip Design** — Digital Europe Programme · Deadline: 2026-09-24
+- **High-end endo-atmospheric interception** — European Defence Fund · Deadline: 2026-09-29
+- **Self-protection systems** — European Defence Fund · Deadline: 2026-09-29
+- **Smart technologies for next generation fighter systems** — European Defence Fund · Deadline: 2026-09-29
+- **Ammunition Waste Collection and Disposal Unmanned Platform** — European Defence Fund · Deadline: 2026-09-29
+- **High-performance energy systems** — European Defence Fund · Deadline: 2026-09-29
+- **Future main battle tank platform systems** — European Defence Fund · Deadline: 2026-09-29
+- **Multiple rocket launcher** — European Defence Fund · Deadline: 2026-09-29
+- **Smart and multifunctional textiles** — European Defence Fund · Deadline: 2026-09-29
+- **Enhanced medium-size semi-autonomous surface vessels** — European Defence Fund · Deadline: 2026-09-29
+- **Secure digital military mobility system** — European Defence Fund · Deadline: 2026-09-29
+- **Enhanced cognitive EW system with intelligent RESM CESM signal analysis** — European Defence Fund · Deadline: 2026-09-29
+- **Integration of Galileo PRS receivers on weapon systems and NAVWAR operational centres in military C2** — European Defence Fund · Deadline: 2026-09-29
+- **New abilities in over-the-horizon sensing** — European Defence Fund · Deadline: 2026-09-29
+- **Non-thematic development actions by SMEs** — European Defence Fund · Deadline: 2026-09-29
+- **Non-thematic actions targeting disruptive technologies for defence** — European Defence Fund · Deadline: 2026-09-29
+- **Non-thematic research actions by SMEs and research organisations** — European Defence Fund · Deadline: 2026-09-29
+- **AI-based tactical situational awareness using swarms of small robots and drones – organisation of a technological challenge"** — European Defence Fund · Deadline: 2026-09-29
+- **AI-based tactical situational awareness using swarms of small robots and drones – participation in a technological challenge"** — European Defence Fund · Deadline: 2026-09-29
+- **New turbofan engine** — European Defence Fund · Deadline: 2026-09-29
+- **Autonomous and automatic air-to-air refuelling** — European Defence Fund · Deadline: 2026-09-29
+- **Quantum secured tactical networks** — European Defence Fund · Deadline: 2026-09-29
+- **CBRN decontamination systems and technologies** — European Defence Fund · Deadline: 2026-09-29
+- **Future multirole light aircraft** — European Defence Fund · Deadline: 2026-09-29
+- **Multidomain sensors demonstrator and test** — European Defence Fund · Deadline: 2026-09-29
+- **Layered critical seabed infrastructure protection** — European Defence Fund · Deadline: 2026-09-29
+- **Modelling & simulation supported AI framework for military decision-making and training** — European Defence Fund · Deadline: 2026-09-29
+- **Development and validation of models predicting flow-related underwater noise** — European Defence Fund · Deadline: 2026-09-29
+- **Support for the functioning of SEAPs, including for the purpose of establishing, managing and maintaining defence industrial readiness pools** — European Defence Fund · Deadline: 2027-09-28
+- **Ammunition, missiles and other explosive weapons** — European Defence Fund · Deadline: 2026-10-13
+- **Counter-drone systems** — European Defence Fund · Deadline: 2026-10-13
+- **Erasmus Charter for Higher Education** — Erasmus+ · Deadline: 2026-03-24
+- **Centres of Vocational Excellence** — Erasmus+ · Deadline: 2026-09-03
+- **ERC PROOF OF CONCEPT GRANTS** — Horizon Europe · Deadline: 2026-09-17
+- **ERC Starting Grant** — Horizon Europe · Deadline: 2026-10-14
+- **Posting of workers: enhancing administrative cooperation and access to information** — European Social Fund+ (ESF+) · Deadline: 2026-10-06
+- **Structured dialogue with people with lived experience of poverty** — European Social Fund+ (ESF+) · Deadline: 2026-10-29
+- **Scientific and technical assistance on a foresight activity in the field of plant health to enhance crisis preparedness for the EU territory.** — EUBA · Deadline: 2026-10-07
+- **R&I in Support of the Clean Industrial Deal: Decarbonisation of energy intensive industries (IA) (Processes4Planet and Clean Steel partnerships)** — Horizon Europe · Deadline: 2026-09-15
+- **R&I in Support of the Clean Industrial Deal: Clean Technologies for Climate Action** — Horizon Europe · Deadline: 2026-09-15
+- **Research and Innovation Network for a Union of Equality** — Horizon Europe · Deadline: 2026-09-23
+- **Governing global commons sustainably** — Horizon Europe · Deadline: 2026-09-23
+- **Electoral integrity in the digital context** — Horizon Europe · Deadline: 2026-09-23
+- **Safeguarding linguistic diversity in Europe** — Horizon Europe · Deadline: 2026-09-23
+- **Open topic: Strengthen Europe's social model and sustainable competitiveness through productivity** — Horizon Europe · Deadline: 2026-09-23
+- **Making Europe a global magnet for talent - Attracting and retaining students, researchers and high-skilled workers from outside the EU** — Horizon Europe · Deadline: 2026-09-23
+- **Rethinking long-term care policy in the face of EU demographic shifts** — Horizon Europe · Deadline: 2026-09-23
+- **Fostering cooperation and integration between SSH and STEM research and innovation in the EU** — Horizon Europe · Deadline: 2026-09-23
+- **Advisory support and network for countering and preventing radicalisation, extremism, hate speech and polarisation** — Horizon Europe · Deadline: 2027-09-23
+- **Women’s, LGBTIQ and minority rights in a context of autocracy, conflict and geopolitical shifts** — Horizon Europe · Deadline: 2027-09-23
+- **Student and family engagement for developing a culture of democratic/civic participation** — Horizon Europe · Deadline: 2027-09-23
+- **Addressing the impact of artificial intelligence, cyberviolence, and deepfakes on equality, democracy and inclusive societies** — Horizon Europe · Deadline: 2027-09-23
+- **Development aid and democratic governance** — Horizon Europe · Deadline: 2027-09-23
+- **Identifying user-focused solutions to support news media freedom** — Horizon Europe · Deadline: 2027-09-23
+- **The role of private companies in democracy** — Horizon Europe · Deadline: 2027-09-23
+- **Global Human Rights and EU values** — Horizon Europe · Deadline: 2027-09-23
+- **Towards a consolidated culture and creativity driven European innovation ecosystem** — Horizon Europe · Deadline: 2027-09-23
+- **AI4Creatives Support Platform: embracing a fair AI revolution** — Horizon Europe · Deadline: 2027-09-23
+- **Crafting routes to a circular economy** — Horizon Europe · Deadline: 2027-09-23
+- **Culture, heritage and creative industries for health and well-being** — Horizon Europe · Deadline: 2027-09-23
+- **Re-imagining the creative economy: the interplay between the cultural and creative sectors and industries and the social economy** — Horizon Europe · Deadline: 2027-09-23
+- **Future-proofing sustainable cultural tourism** — Horizon Europe · Deadline: 2027-09-23
+- **Societal impact of cultural heritage** — Horizon Europe · Deadline: 2027-09-23
+- **Safeguarding & transmission of intangible cultural heritage** — Horizon Europe · Deadline: 2027-09-23
+- **Impact of access to nature-positive environments in promoting social cohesion and reducing inequalities in urban and peri-urban settings** — Horizon Europe · Deadline: 2027-09-23
+- **Impact of in-kind benefits on income distribution and on vulnerable populations** — Horizon Europe · Deadline: 2027-09-23
+- **Rethinking sustainable competitiveness beyond traditional perspectives: role and contribution of the Social Economy** — Horizon Europe · Deadline: 2027-09-23
+- **The impact of EU labour mobility on the Member States of the EU** — Horizon Europe · Deadline: 2027-09-23
+- **The effective use of artificial intelligence in learning environments in pre-primary and primary education** — Horizon Europe · Deadline: 2027-09-23
+- **Closing the learning gap: uncovering causes and effective policy interventions for declining youth skills in mathematics, reading, and science** — Horizon Europe · Deadline: 2027-09-23
+- **Persons with disabilities: opportunities for labour inclusion and social protection through the life course** — Horizon Europe · Deadline: 2027-09-23
+- **Scaling and deploying innovations in migration management** — Horizon Europe · Deadline: 2027-09-23
+- **Approaches and tools for security in software and hardware development and assessment** — Horizon Europe · Deadline: 2026-09-15
+- **Enhancing the Security, Privacy and Robustness of AI Models and Systems (SecureAI)** — Horizon Europe · Deadline: 2026-09-15
+- **Advanced cryptographic schemes and High-Assurance high-speed cryptographic implementations** — Horizon Europe · Deadline: 2026-09-15
+- **Open topic on research and innovation for effective management of EU external borders that promotes fundamental rights and EU values** — Horizon Europe · Deadline: 2027-11-04
+- **Trusted, secure, quality future digital travel credentials** — Horizon Europe · Deadline: 2027-11-04
+- **Detection and characterisation of threats or illegal/ smuggled goods in cargo** — Horizon Europe · Deadline: 2027-11-04
+- **Open Topic on advanced protective gear optimized for CBRN-E (Chemical, Biological, Radiological, Nuclear, Explosives) environments and new generation of smart protective equipment for disaster responders** — Horizon Europe · Deadline: 2027-11-04
+- **Societal resilience, engagement of the younger generations and digital innovation for disaster resilience** — Horizon Europe · Deadline: 2027-11-04
+- **Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management** — Horizon Europe · Deadline: 2027-11-04
+- **Enhancing preparedness for large-scale cross-border disasters** — Horizon Europe · Deadline: 2027-11-04
+- **Online harms detection and investigation tools using a short development cycle model** — Horizon Europe · Deadline: 2027-11-04
+- **Community policing in diverse societies in Europe** — Horizon Europe · Deadline: 2027-11-04
+- **Open topic on enhanced prevention, detection and deterrence of societal issues related to various forms of crime** — Horizon Europe · Deadline: 2027-11-04
+- **Open topic on increasing security of citizens against terrorism, including in public spaces** — Horizon Europe · Deadline: 2027-11-04
+- **Effective and evidence-based responses to the increased availability and use of synthetic drugs and stimulants in Europe** — Horizon Europe · Deadline: 2027-11-04
+- **Enhancing physical protection of critical infrastructures** — Horizon Europe · Deadline: 2027-11-04
+- **Impact of malicious use of Open-Source Intelligence on critical infrastructure business continuity** — Horizon Europe · Deadline: 2027-11-04
+- **Accelerating uptake through open proposals for advanced SME innovation** — Horizon Europe · Deadline: 2027-11-04
+- **Open grounds for future pre-commercial procurement of innovative security technologies** — Horizon Europe · Deadline: 2027-11-04
+- **Demand-led innovation in security** — Horizon Europe · Deadline: 2027-11-04
+- **Reinforcing EU autonomous access to space through EU-based spaceports** — Horizon Europe · Deadline: 2026-09-03
+- **Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)** — Horizon Europe · Deadline: 2026-09-03
+- **Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership)** — Horizon Europe · Deadline: 2026-09-03
+- **Scientific analysis and exploitation of space data** — Horizon Europe · Deadline: 2026-09-03
+- **Space critical EEE components for EU non-dependence – Radiation Hard FPGA on 7nm** — Horizon Europe · Deadline: 2026-09-03
+- **Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities** — Horizon Europe · Deadline: 2026-09-03
+- **Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment** — Horizon Europe · Deadline: 2026-09-03
+- **Space critical Equipment for EU non-dependence – Space Refuelling Interface** — Horizon Europe · Deadline: 2026-09-03
+- **Advanced manufacturing for key products (IA) (Made in Europe partnership)** — Horizon Europe · Deadline: 2027-02-02
+- **Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships)** — Horizon Europe · Deadline: 2027-02-02
+- **Textile circularity through advanced processing and manufacturing technologies and system approaches (IA) (Textiles for the Future partnership)** — Horizon Europe · Deadline: 2027-02-02
+- **Technologies for innovative processing of raw materials (IA)** — Horizon Europe · Deadline: 2027-02-02
+- **Expert network on Critical raw materials (CSA)** — Horizon Europe · Deadline: 2027-02-02
+- **Innovative advanced materials and new production processes – reducing dependencies on Critical and Strategic Raw Materials (IA) (Innovative Advanced Materials for the EU and Processes4Planet partnerships)** — Horizon Europe · Deadline: 2027-02-02
+- **Unlocking the potential of academic intellectual assets for industry, SMEs and startups (CSA)** — Horizon Europe · Deadline: 2027-02-02
+- **Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)** — Horizon Europe · Deadline: 2027-02-02
+- **‘Proof of market’ to improve valorisation and commercialisation of Horizon generated R&I results (IA)** — Horizon Europe · Deadline: 2027-02-02
+- **Fast Track to Research and Innovation for breakthroughs in industrial technologies (Research and Innovation Action)** — Horizon Europe · Deadline: 2027-02-02
+- **Fast Track to Innovation for breakthroughs in the Chemical Industry Action Plan (Research and Innovation Action)** — Horizon Europe · Deadline: 2027-02-02
+- **New approaches for Human/AI collaboration for the workforce of the future (RIA) (Made in Europe and AI, Data and Robotics partnerships)** — Horizon Europe · Deadline: 2027-09-02
+- **De-risking renewable fuel technologies through transnational pre-commercial procurement of renewable fuel industrial value chains** — Horizon Europe · Deadline: 2026-12-01
+- **Demonstration of solid biofuel supply and conversion to high efficiency CHP from fully sustainable regional value chains** — Horizon Europe · Deadline: 2026-12-01
+- **Resource assessment for deep sedimentary and basement reservoirs** — Horizon Europe · Deadline: 2026-12-01
+- **Improved system design for innovative PV applications (EUPI-PV Partnership)** — Horizon Europe · Deadline: 2026-12-01
+- **Data sharing to support the training and development of AI foundation models in the energy sector** — Horizon Europe · Deadline: 2026-12-01
+- **Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership)** — Horizon Europe · Deadline: 2027-09-15
+- **On-site robotic and automated techniques for building renovation and new construction** — Horizon Europe · Deadline: 2027-09-15
+- **Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres** — Horizon Europe · Deadline: 2027-09-15
+- **Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)** — Horizon Europe · Deadline: 2027-09-15
+- **Demonstration of industrial excess/waste heat conversion to mechanical or electrical power** — Horizon Europe · Deadline: 2027-09-15
+- **Holistic solutions for CCAM integration in critical scenarios (CCAM Partnership)** — Horizon Europe · Deadline: 2027-10-07
+- **European CCAM knowledge hub and tools for safe and scalable deployment (CCAM Partnership)** — Horizon Europe · Deadline: 2027-10-07
+- **Enhancing Mobility for All: affordable, reliable, and accessible multimodal transport for inclusive rural and urban connectivity – Societal Readiness pilot** — Horizon Europe · Deadline: 2027-10-07
+- **Enhancing Resilience and Accuracy in Positioning, Navigation, and Timing (PNT) Systems and e-conspicuity solutions** — Horizon Europe · Deadline: 2027-10-07
+- **Support for dissemination events in the field of Transport Research** — Horizon Europe · Deadline: 2027-10-07
+- **Demonstration of hydropower technologies for efficient and forward-looking refurbishment of existing hydropower plants** — Horizon Europe · Deadline: 2027-12-01
+- **Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership)** — Horizon Europe · Deadline: 2027-12-01
+- **PV based electrification of the economy: Designing & optimising PV systems supporting industrial electrification and promoting participation in electricity markets (EUPI-PV Partnership)** — Horizon Europe · Deadline: 2027-12-01
+- **Advanced TSO control rooms to enhance grid observability, stability and resilience** — Horizon Europe · Deadline: 2027-12-01
+- **Advanced Distribution Management Systems (ADSM) for more efficient and flexible distribution grids** — Horizon Europe · Deadline: 2027-12-01
+- **Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies** — Horizon Europe · Deadline: 2027-12-01
+- **Community of practice - Data-Driven Decision-Making in Energy** — Horizon Europe · Deadline: 2027-12-01
+- **Delivery of industrial CCUS clusters – Societal Readiness pilot** — Horizon Europe · Deadline: 2027-12-01
+- **Understanding and tackling the decline of insects** — Horizon Europe · Deadline: 2026-09-17
+- **Developing methods to assess the presence, functions and sensitivity of groundwater ecosystems** — Horizon Europe · Deadline: 2026-09-17
+- **Pushing the frontier of knowledge and conservation action for deep sea ecosystems** — Horizon Europe · Deadline: 2026-09-17
+- **Ensuring continuous effectiveness of protected areas in conserving habitats and species while facing intensifying drivers of biodiversity loss** — Horizon Europe · Deadline: 2026-09-17
+- **Advancing integrated scenarios and prediction models for informing transition to a nature positive society** — Horizon Europe · Deadline: 2026-09-17
+- **Boosting agrobiodiversity for food security and sustainable competitiveness** — Horizon Europe · Deadline: 2026-09-17
+- **Improving circularity of multilayer flexible plastic food contact packaging** — Horizon Europe · Deadline: 2026-09-17
+- **Advancing recycling technologies for mixed post-consumer textiles waste from blended products** — Horizon Europe · Deadline: 2026-09-17
+- **Advanced recovery of critical raw materials from Waste from Electrical and Electronic Equipment (WEEE)** — Horizon Europe · Deadline: 2026-09-17
+- **Demonstrating and deploying innovative collection, sorting-for-reuse and repair systems for textiles at city/region level (Circular Cities and Regions Initiative topic)** — Horizon Europe · Deadline: 2026-09-17
+- **Understanding biomass flows in Europe** — Horizon Europe · Deadline: 2026-09-17
+- **Bioeconomy policy support hub for Member States, regions and sectors** — Horizon Europe · Deadline: 2026-09-17
+- **Advancing the European bio-based innovation enabled by biotechnology and biomanufacturing concepts** — Horizon Europe · Deadline: 2026-09-17
+- **Supporting pre-normative research for standardization of the bio-based products** — Horizon Europe · Deadline: 2026-09-17
+- **Balancing food security, bioeconomy, climate and biodiversity objectives to unlock sustainable value chains** — Horizon Europe · Deadline: 2026-09-17
+- **Bio-based innovation in society: supporting the sustainable way of living** — Horizon Europe · Deadline: 2026-09-17
+- **Harnessing the unique properties of marine organisms to deliver sustainable blue bio-based products** — Horizon Europe · Deadline: 2026-09-17
+- **Toward a comprehensive assessment of the disturbance of marine ecosystems by anthropogenic underwater noise** — Horizon Europe · Deadline: 2026-09-17
+- **Bioremediation of Ukraine’s ecosystems contaminated by conflicts** — Horizon Europe · Deadline: 2026-09-17
+- **Developing managed aquifer recharge techniques (MAR) in a rural context** — Horizon Europe · Deadline: 2026-09-17
+- **Additional activities for the European Partnership of Agriculture of Data** — Horizon Europe · Deadline: 2026-11-26
+- **Science-policy support to the implementation of EU and global biodiversity policies and strategies** — Horizon Europe · Deadline: 2027-09-22
+- **Technical innovation to protect ecosystems and to scale up their restoration** — Horizon Europe · Deadline: 2027-09-22
+- **Living Labs for the eradication and/or management of invasive alien species** — Horizon Europe · Deadline: 2027-09-22
+- **Accelerating the transition to a nature positive economy: Integrating biodiversity into the private sector** — Horizon Europe · Deadline: 2027-09-22
+- **Enhancing ecodesign and circularity of construction products** — Horizon Europe · Deadline: 2027-09-22
+- **Innovative circular solutions for end-of-life footwear through collection, sorting and recycling** — Horizon Europe · Deadline: 2027-09-22
+- **Towards a Europe of Bioeconomy Places** — Horizon Europe · Deadline: 2027-09-22
+- **Improving biomass flows for a sustainable and circular bioeconomy** — Horizon Europe · Deadline: 2027-09-22
+- **Replacing hazardous substances in biocidal products** — Horizon Europe · Deadline: 2027-09-22
+- **Governance, sustainable development and international politics of a future ice-free Arctic** — Horizon Europe · Deadline: 2027-09-23
+- **Strengthening evidence-based policies for the resilience of European agriculture and forestry and related supply chains against crises and systemic risks** — Horizon Europe · Deadline: 2027-09-23
+- **Carbon farming innovation and scale-up** — Horizon Europe · Deadline: 2027-09-23
+- **Unlocking a safe operating space for Antarctica and the Southern Ocean** — Horizon Europe · Deadline: 2027-09-23
+- **Strengthening rural communities' resilience to shocks** — Horizon Europe · Deadline: 2027-09-23
+- **Empowering local urban food systems entrepreneurship and innovation** — Horizon Europe · Deadline: 2027-09-23
+- **Increasing the resilience of agriculture in water and nutrient-scarce environments through digital innovations** — Horizon Europe · Deadline: 2027-09-23
+- **Increasing mitigation of GHG emissions and feed efficiency through feed additives** — Horizon Europe · Deadline: 2027-09-23
+- **Microbiome for terrestrial livestock sustainability and health within a One Health approach** — Horizon Europe · Deadline: 2027-09-23
+- **Improving understanding of the contribution of the organic farming sector to sustainability** — Horizon Europe · Deadline: 2027-09-23
+- **Enhancing farmer's profitability and resilience through innovations for diversified crops and value chains** — Horizon Europe · Deadline: 2027-09-23
+- **Unleashing the potential of sustainable small-scale aquatic food production and recreational fisheries for prosperous local communities** — Horizon Europe · Deadline: 2027-09-23
+- **Towards commercialization of food systems microbiome solutions** — Horizon Europe · Deadline: 2027-09-23
+- **AI-powered foodome characterization** — Horizon Europe · Deadline: 2027-09-23
+- **EIC Accelerator 2026 - Short proposal** — Horizon Europe · Deadline: 2026-12-17
+- **Advanced Materials for Miniaturised Energy Harvesting Systems** — Horizon Europe · Deadline: 2026-10-28
+- **Biotechnology for Healthy Ageing** — Horizon Europe · Deadline: 2026-10-28
+- **DeepRAP: Deep Reasoning, Abstraction & Planning towards trustworthy Cognitive AI Systems** — Horizon Europe · Deadline: 2026-10-28
+- **EIC STEP Scale Up** — Horizon Europe · Deadline: 2026-11-25
+- **EIC Transition Open** — Horizon Europe · Deadline: 2026-09-16
+- **Startup Europe** — Horizon Europe · Deadline: 2027-09-15
+- **Reinforcing synergies between experimentation spaces and innovation procurement** — Horizon Europe · Deadline: 2027-09-15
+- **Enhancing the involvement of philanthropic organisations in innovation ecosystems** — Horizon Europe · Deadline: 2027-09-15
+- **Women Leadership Category** — Horizon Europe · Deadline: 2026-12-01
+- **Safety of operating nuclear power plants and research reactors** — Euratom · Deadline: 2026-09-15
+- **Safety of SMRs, advanced and innovative nuclear reactors and fuels** — Euratom · Deadline: 2026-09-15
+- **Enhancing the European nuclear competence area** — Euratom · Deadline: 2026-09-15
+- **Strengthening a European user facility for nuclear research** — Euratom · Deadline: 2026-09-15
+- **Towards a European production of stable isotopes for novel nuclear medicine therapies (SAMIRA/ERVI)** — Euratom · Deadline: 2026-09-15
+- **Support for the Sustainable Nuclear Energy Technology Platform to address cross-sectoral challenges and non-power applications of ionising radiation** — Euratom · Deadline: 2026-09-15
+- **Co-funded European partnership for research in nuclear materials** — Euratom · Deadline: 2026-09-15
+- **European Partnership for research in radiation protection and detection of ionising radiation** — Euratom · Deadline: 2026-09-15
+- **European Nuclear Skills Initiative – towards European Nuclear Skills Academy** — Euratom · Deadline: 2026-09-15
+- **Key enabling technologies for fusion power plants (European Partnership on Fusion Energy)** — Euratom · Deadline: 2027-03-04
+- **Safety of operating nuclear power plants and research reactors** — Horizon Europe · Deadline: 2026-09-15
+- **Safety of SMRs, advanced and innovative nuclear reactors and fuels** — Horizon Europe · Deadline: 2026-09-15
+- **Towards a European production of stable isotopes for novel nuclear medicine therapies (SAMIRA/ERVI)** — Horizon Europe · Deadline: 2026-09-15
+- **Support for the Sustainable Nuclear Energy Technology Platform to address cross-sectoral challenges and non-power applications of ionising radiation** — Horizon Europe · Deadline: 2026-09-15
+- **European Partnership on Rare Diseases (ERDERA) (Phase 2)** — Horizon Europe · Deadline: 2026-09-15
+- **Advancing bio-printing of living cells for regenerative medicine** — Horizon Europe · Deadline: 2027-09-22
+- **Virtual Human Twins (VHTs) for integrated clinical decision support in prevention and diagnosis** — Horizon Europe · Deadline: 2027-09-22
+- **Towards Artificial General Intelligence (AGI) for healthcare** — Horizon Europe · Deadline: 2027-09-22
+- **Supporting industry in the switch to sustainable and circular bio-based products and processes** — Horizon Europe · Deadline: 2026-09-22
+- **Biotech routes for valorisation of residual biomass** — Horizon Europe · Deadline: 2026-09-22
+- **Bio-based additives as alternatives to unlock and increase recyclability and/or biodegradability** — Horizon Europe · Deadline: 2026-09-22
+- **Bio-based chemicals and/or materials from woody residues** — Horizon Europe · Deadline: 2026-09-22
+- **High-performance, circular-by-design, bio-based thermosets** — Horizon Europe · Deadline: 2026-09-22
+- **Films and coatings for circular packaging** — Horizon Europe · Deadline: 2026-09-22
+- **Boosting biorefinery competitiveness through biotech** — Horizon Europe · Deadline: 2026-09-22
+- **SSbD bio-based alternatives for fertilising and/or crop protection products** — Horizon Europe · Deadline: 2026-09-22
+- **SSbD bio-based solutions for home and/or personal care** — Horizon Europe · Deadline: 2026-09-22
+- **Diversification of nutritional food ingredient sources for increased EU resilience and strategic autonomy** — Horizon Europe · Deadline: 2026-09-22
+- **Addressing separation and purification challenges in biorefineries** — Horizon Europe · Deadline: 2026-09-22
+- **SSbD bio-based polymers from alternative sources** — Horizon Europe · Deadline: 2026-09-22
+- **Develop breakthrough and sustainable bio-based textile fibres** — Horizon Europe · Deadline: 2026-09-22
+- **Supply chain resilience CSA** — Horizon Europe · Deadline: 2026-09-22
+- **RIA Resilience call reinforcing Europe's strength in 6G radio communication systems** — Horizon Europe · Deadline: 2026-09-16
+- **Call with Digital Partnership and TTC countries** — Horizon Europe · Deadline: 2026-09-16
+- **IA Resilience call reinforcing Europe's strenght in power electronics** — Horizon Europe · Deadline: 2026-09-16
+- **IA Resilience call reinforcing Europe's strength in photonics** — Horizon Europe · Deadline: 2026-09-16
+- **IA Resilience call reinforcing Europe's strenght in health** — Horizon Europe · Deadline: 2026-09-16
+- **Impact Monitoring and Assessment Framework for the Chips JU** — Horizon Europe · Deadline: 2026-09-30
+- **Coordination of the European software-defined vehicle platform** — Horizon Europe · Deadline: 2026-09-22
+- **Neutral-Atom Platform Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Next-Generation QKD Systems** — Horizon Europe · Deadline: 2026-11-17
+- **Quantum Experimental Pilot Lines for Quantum Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Quantum-Testing Infrastructure for Quantum Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Superconducting Platform Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Trapped-Ion Platform Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Enhancing integrated research and healthcare in sub-Saharan Africa through digital innovation and Artificial Intelligence** — Horizon Europe · Deadline: 2026-09-02
+- **Training and innovation networks for sustained capacity development related to ethics, regulatory, pharmacovigilance, and related digital regulatory platforms** — Horizon Europe · Deadline: 2026-09-02
+- **National Adaptation Hubs - Bringing together the national level with the engaged regional and local levels (multi-level governance)** — Horizon Europe · Deadline: 2026-09-23
+- **Facilitating implementation of actionable solutions for climate adaptation of regions and local authorities** — Horizon Europe · Deadline: 2026-09-23
+- **Standardising and supporting climate services for climate adaptation** — Horizon Europe · Deadline: 2026-09-23
+- **Bridging the gap between disaster risk management and climate adaptation** — Horizon Europe · Deadline: 2026-09-23
+- **Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change** — Horizon Europe · Deadline: 2026-09-23
+- **Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure** — Horizon Europe · Deadline: 2026-09-23
+- **Supporting financing of local adaptation actions with combination of public funding and private financing** — Horizon Europe · Deadline: 2026-09-23
+- **Virtual Human Twin (VHT) Models for Cancer Research** — Horizon Europe · Deadline: 2026-09-15
+- **Microbiome for early cancer prediction before the onset of disease** — Horizon Europe · Deadline: 2026-09-15
+- **Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers** — Horizon Europe · Deadline: 2026-09-15
+- **Earlier and more precise palliative care** — Horizon Europe · Deadline: 2026-09-15
+- **Boosting mental health of young cancer survivors through the European Cancer Patient Digital Centre (ECPDC)** — Horizon Europe · Deadline: 2026-09-15
+- **Development of a research capacity building programme on cancer with and for Ukraine** — Horizon Europe · Deadline: 2026-09-15
+- **Improve the Quality of Life of older cancer patients** — Horizon Europe · Deadline: 2026-09-15
+- **Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation** — Horizon Europe · Deadline: 2026-09-23
+- **Addressing aquatic pollution and biodiversity loss through nature positive solutions from source to sea** — Horizon Europe · Deadline: 2026-09-23
+- **By fishers, for fishers: co-management of marine and freshwaters ecosystems and resources** — Horizon Europe · Deadline: 2026-09-23
+- **Towards a European network of ocean technology testing sites** — Horizon Europe · Deadline: 2026-09-23
+- **Regional (sea-basins) components of the EU Digital Twin Ocean** — Horizon Europe · Deadline: 2026-09-23
+- **Energy efficient urban and sub-urban public transport, complemented by shared mobility** — Horizon Europe · Deadline: 2026-10-08
+- **Transition to low-temperature heating solutions in multi-apartment buildings** — Horizon Europe · Deadline: 2026-10-08
+- **Introducing circular economy models in the construction sector, from buildings to city scale** — Horizon Europe · Deadline: 2026-10-08
+- **Monitoring soil health in practice: equipping stakeholders to sample, analyse, and interpret soil health indicators** — Horizon Europe · Deadline: 2026-09-23
+- **Antimicrobial resistance and antibiotic biosynthesis in soils: developing key understanding and counteractive strategies using a One-Health approach** — Horizon Europe · Deadline: 2026-09-23
+- **Enabling user-centred and open innovation initiatives to enhance soil health in Ukraine** — Horizon Europe · Deadline: 2026-09-23
+- **Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management** — Horizon Europe · Deadline: 2026-09-23
+- **Joint demonstration of solutions to build soil resilience to extreme weather events and support food security** — Horizon Europe · Deadline: 2026-09-23
+- **MSCA Postdoctoral Fellowships 2026** — Horizon Europe · Deadline: 2026-09-09
+- **MSCA Doctoral Networks 2027** — Horizon Europe · Deadline: 2027-11-23
+- **Addressing homelessness through housing-led approaches aligned with the New European Bauhaus** — Horizon Europe · Deadline: 2026-12-01
+- **Innovative approaches for the spatial design of neighbourhoods** — Horizon Europe · Deadline: 2026-12-01
+- **Mass customisation of offsite manufactured modular construction components to transform the existing built environment** — Horizon Europe · Deadline: 2027-12-01
+- **Innovative models for collective community investment and ownership** — Horizon Europe · Deadline: 2027-12-01
+- **Anticipating the long-term future of neighbourhoods in line with the New European Bauhaus** — Horizon Europe · Deadline: 2027-12-01
+- **The transformative potential of co-governance in the green transition of neighbourhoods** — Horizon Europe · Deadline: 2027-12-01
+- **Intergenerational neighbourhoods and communities aligned with the New European Bauhaus** — Horizon Europe · Deadline: 2027-12-01
+- **Novel combinations of knowledge and research methods to address social issues and advance a fair green transition of neighbourhoods** — Horizon Europe · Deadline: 2027-12-01
+- **Combining conventional and innovative construction materials, products and techniques for sustainable and beautiful buildings** — Horizon Europe · Deadline: 2027-12-01
+- **Sustainable, beautiful and healthy construction and renovation sites** — Horizon Europe · Deadline: 2027-12-01
+- **Revitalising neighbourhoods around existing railway and motorway corridors** — Horizon Europe · Deadline: 2027-12-01
+- **Reducing soil sealing through sustainable urban and territorial design in the New European Bauhaus** — Horizon Europe · Deadline: 2027-09-15
+- **Automated Scientific Discovery (RAISE pilot) (RIA)** — Horizon Europe · Deadline: 2027-02-02
+- **Automated Scientific Discovery – Food (RAISE pilot)** — Horizon Europe · Deadline: 2027-02-02
+- **Teaming Synergies** — Horizon Europe · Deadline: 2026-09-24
+- **Hop-On Facility** — Horizon Europe · Deadline: 2026-09-24
+- **Research Management Facility** — Horizon Europe · Deadline: 2026-09-24
+- **ERA Fellowships** — Horizon Europe · Deadline: 2026-09-09
+- **EIC Pre-accelerator - Widening** — Horizon Europe · Deadline: 2027-11-18
+- **Excellence Hubs** — Horizon Europe · Deadline: 2027-03-04
+- **Framework Loans** — Just Transition Mechanism (JTM) · Deadline: 2027-02-16
+- **Standalone projects** — Just Transition Mechanism (JTM) · Deadline: 2027-02-16
+- **Energy renovation solutions – Boosting building renovation through effective markets and instruments** — 43252405 · Deadline: 2026-09-16
+- **BUILD UP Skills - National Platforms on energy efficiency skills for the clean energy transition** — 43252405 · Deadline: 2026-09-16
+- **Supporting digitalisation of Distribution System Operators for a smart energy transition (Smart Grid Academy)** — 43252405 · Deadline: 2026-09-16
+- **Scaling up smart and clean energy solutions for affordability in EU cities** — 43252405 · Deadline: 2026-09-16
+- **Facilitating cooperation among energy communities** — 43252405 · Deadline: 2026-09-16
+- **Alleviating household energy poverty in Europe** — 43252405 · Deadline: 2026-09-16
+- **Supporting the delivery of actionable, integrated, and comprehensive local heating and cooling plans** — 43252405 · Deadline: 2026-09-16
+- **Supporting the clean energy transition of European industry and businesses** — 43252405 · Deadline: 2026-09-16
+- **One-Stop-Shops - Integrated services for clean energy transition in private buildings** — 43252405 · Deadline: 2026-09-16
+- **Project Development Assistance for sustainable energy investments** — 43252405 · Deadline: 2026-09-16
+- **Towards an effective implementation of key legislation in the field of sustainable energy** — 43252405 · Deadline: 2026-09-16
+- **Crowding in private finance** — 43252405 · Deadline: 2026-09-16
+- **Strengthening national frameworks for renewable and efficient heating and cooling in existing buildings** — 43252405
+- **Ecodesign and energy labelling compliance support facility for suppliers and retailers** — 43252405 · Deadline: 2026-09-22
+- **Multilevel climate and energy dialogue to deliver the Governance Regulation and the post–2030 energy and climate policy framework** — 43252405 · Deadline: 2026-09-22
+- **Projects on Legislative and Policy Priorities in the fields of Nature & Biodiversity and Circular Economy & Quality of Life** — 43252405 · Deadline: 2026-09-22
+- **Climate Change Adaptation** — 43252405 · Deadline: 2026-09-22
+- **Climate Change Mitigation** — 43252405 · Deadline: 2026-09-22
+- **Climate Governance and Information** — 43252405 · Deadline: 2026-09-22
+- **Circular Economy and Zero Pollution** — 43252405 · Deadline: 2026-09-22
+- **Environment governance** — 43252405 · Deadline: 2026-09-22
+- **Nature Governance and Information** — 43252405 · Deadline: 2026-09-22
+- **Nature and Biodiversity** — 43252405 · Deadline: 2026-09-22
+- **Strategic Integrated Projects - Climate Action** — 43252405 · Deadline: 2027-03-04
+- **Strategic Integrated Projects - Environment** — 43252405 · Deadline: 2027-03-04
+- **Strategic Nature Projects** — 43252405 · Deadline: 2027-03-04
+- **technical Assistance preparation of CLIMA SIPs** — 43252405 · Deadline: 2026-09-22
+- **Technical Assistance preparation of ENV SIPs** — 43252405 · Deadline: 2026-09-22
+- **Technical Assistance preparation of SNaPs** — 43252405 · Deadline: 2026-09-22
+- **Protection of the euro against counterfeiting** — Pericles IV · Deadline: 2026-09-15
+- **Integrated Surveillance mechanism: Regional Cable hubs** — PPPA · Deadline: 2026-10-08
+- **Youth-Driven Social Media Design: Safe, Inclusive, and Publicly-Owned Social Media** — PPPA · Deadline: 2026-10-06
+- **Renewable energy financing mechanism technology specific** — RENEWFM · Deadline: 2026-09-01
+
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 186 |
-| Food, Bioeconomy & Environment | 102 |
-| Culture, Creativity & Inclusion | 88 |
-| Digital, Industry & Space | 83 |
-| Security & Resilience | 48 |
-| Health & Life Sciences | 37 |
-| Defence | 37 |
-| Climate-neutral & Smart Cities | 19 |
-| SME, Entrepreneurship & Market Uptake | 15 |
-| Internships, fellowships & scholarships | 12 |
-| External Action & International Cooperation | 3 |
+| Climate, Energy & Mobility | 96 |
+| Culture, Creativity & Inclusion | 43 |
+| Digital, Industry & Space | 38 |
+| Food, Bioeconomy & Environment | 29 |
+| Security & Resilience | 28 |
+| Health & Life Sciences | 25 |
+| Internships, fellowships & scholarships | 8 |
+| Defence | 7 |
+| Climate-neutral & Smart Cities | 7 |
+| Cross-cutting / Other | 6 |
+| SME, Entrepreneurship & Market Uptake | 5 |
+| External Action & International Cooperation | 1 |
