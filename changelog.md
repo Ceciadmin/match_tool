@@ -1,23 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-08-28 14:49:39.06
+**Last updated:** 2026-08-29 09:24:17.41
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 627 |
-| Total calls (previous) | 628 |
+| Total calls (previous) | 627 |
 | **New calls added** | **0** |
-| Calls removed (expired/closed) | 1 |
+| Calls removed (expired/closed) | 0 |
 
 ## Calls added
 
 No new calls compared to the previous snapshot.
-
-## Calls removed (1)
-
-- **ERC ADVANCED GRANTS** — Horizon Europe
 
 ## Distribution by thematic area (new dataset)
 
