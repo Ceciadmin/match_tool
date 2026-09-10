@@ -1,23 +1,24 @@
 # Changelog calls.json
 
-**Last updated:** 2026-09-09 07:55:59.35
+**Last updated:** 2026-09-10 07:45:34.94
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 624 |
-| Total calls (previous) | 625 |
+| Total calls (new) | 622 |
+| Total calls (previous) | 624 |
 | **New calls added** | **0** |
-| Calls removed (expired/closed) | 1 |
+| Calls removed (expired/closed) | 2 |
 
 ## Calls added
 
 No new calls compared to the previous snapshot.
 
-## Calls removed (1)
+## Calls removed (2)
 
-- **Framework Partnership Agreements for operating grants to support non-profit organisations** — 43252405 · Deadline: 2026-09-08
+- **MSCA Postdoctoral Fellowships 2026** — Horizon Europe · Deadline: 2026-09-09
+- **ERA Fellowships** — Horizon Europe · Deadline: 2026-09-09
 
 ## Distribution by thematic area (new dataset)
 
@@ -32,6 +33,5 @@ No new calls compared to the previous snapshot.
 | Health & Life Sciences | 35 |
 | Climate-neutral & Smart Cities | 19 |
 | SME, Entrepreneurship & Market Uptake | 17 |
-| Internships, fellowships & scholarships | 10 |
+| Internships, fellowships & scholarships | 9 |
 | External Action & International Cooperation | 3 |
-| Cross-cutting / Other | 1 |
