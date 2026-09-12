@@ -1,24 +1,23 @@
 # Changelog calls.json
 
-**Last updated:** 2026-09-10 07:45:34.94
+**Last updated:** 2026-09-12 07:43:26.61
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 622 |
-| Total calls (previous) | 624 |
+| Total calls (new) | 621 |
+| Total calls (previous) | 622 |
 | **New calls added** | **0** |
-| Calls removed (expired/closed) | 2 |
+| Calls removed (expired/closed) | 1 |
 
 ## Calls added
 
 No new calls compared to the previous snapshot.
 
-## Calls removed (2)
+## Calls removed (1)
 
-- **MSCA Postdoctoral Fellowships 2026** — Horizon Europe · Deadline: 2026-09-09
-- **ERA Fellowships** — Horizon Europe · Deadline: 2026-09-09
+- **Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities** — Horizon Europe · Deadline: 2026-09-16
 
 ## Distribution by thematic area (new dataset)
 
@@ -26,7 +25,7 @@ No new calls compared to the previous snapshot.
 |---|---|
 | Climate, Energy & Mobility | 185 |
 | Food, Bioeconomy & Environment | 98 |
-| Digital, Industry & Space | 88 |
+| Digital, Industry & Space | 87 |
 | Culture, Creativity & Inclusion | 85 |
 | Security & Resilience | 46 |
 | Defence | 37 |
