@@ -1,23 +1,23 @@
 # Changelog calls.json
 
-**Last updated:** 2026-09-12 07:43:26.61
+**Last updated:** 2026-09-13 07:54:52.20
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 621 |
-| Total calls (previous) | 622 |
-| **New calls added** | **0** |
-| Calls removed (expired/closed) | 1 |
+| Total calls (new) | 622 |
+| Total calls (previous) | 621 |
+| **New calls added** | **1** |
+| Calls removed (expired/closed) | 0 |
 
-## Calls added
+## Calls added (1)
 
-No new calls compared to the previous snapshot.
+### Digital, Industry & Space (1)
 
-## Calls removed (1)
-
-- **Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities** — Horizon Europe · Deadline: 2026-09-16
+- **Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities**
+  Horizon Europe · RIA · Deadline: 2026-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-82
 
 ## Distribution by thematic area (new dataset)
 
@@ -25,7 +25,7 @@ No new calls compared to the previous snapshot.
 |---|---|
 | Climate, Energy & Mobility | 185 |
 | Food, Bioeconomy & Environment | 98 |
-| Digital, Industry & Space | 87 |
+| Digital, Industry & Space | 88 |
 | Culture, Creativity & Inclusion | 85 |
 | Security & Resilience | 46 |
 | Defence | 37 |
