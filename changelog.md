@@ -1,23 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-09-13 07:54:52.20
+**Last updated:** 2026-09-14 08:25:48.52
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 622 |
-| Total calls (previous) | 621 |
-| **New calls added** | **1** |
+| Total calls (previous) | 622 |
+| **New calls added** | **0** |
 | Calls removed (expired/closed) | 0 |
 
-## Calls added (1)
+## Calls added
 
-### Digital, Industry & Space (1)
-
-- **Space critical EEE components for EU non-dependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities**
-  Horizon Europe · RIA · Deadline: 2026-09-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-SPACE-03-82
+No new calls compared to the previous snapshot.
 
 ## Distribution by thematic area (new dataset)
 
