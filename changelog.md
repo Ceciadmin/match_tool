@@ -1,23 +1,19 @@
 # Changelog calls.json
 
-**Last updated:** 2026-09-19 07:39:28.23
+**Last updated:** 2026-09-20 08:11:51.08
 
 ## Summary
 
 | | Count |
 |---|---|
 | Total calls (new) | 547 |
-| Total calls (previous) | 546 |
-| **New calls added** | **1** |
+| Total calls (previous) | 547 |
+| **New calls added** | **0** |
 | Calls removed (expired/closed) | 0 |
 
-## Calls added (1)
+## Calls added
 
-### Defence (1)
-
-- **Future multirole light aircraft**
-  European Defence Fund · EDF-RA EDF Research Actions · Deadline: 2026-09-29
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-2026-RA-PROTMOB-FMLA
+No new calls compared to the previous snapshot.
 
 ## Distribution by thematic area (new dataset)
 
