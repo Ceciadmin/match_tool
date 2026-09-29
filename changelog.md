@@ -1,23 +1,23 @@
 # Changelog calls.json
 
-**Last updated:** 2026-09-28 08:55:32.30
+**Last updated:** 2026-09-29 08:29:33.56
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 435 |
-| Total calls (previous) | 436 |
-| **New calls added** | **0** |
-| Calls removed (expired/closed) | 1 |
+| Total calls (new) | 436 |
+| Total calls (previous) | 435 |
+| **New calls added** | **1** |
+| Calls removed (expired/closed) | 0 |
 
-## Calls added
+## Calls added (1)
 
-No new calls compared to the previous snapshot.
+### SME, Entrepreneurship & Market Uptake (1)
 
-## Calls removed (1)
-
-- **Biotechnology for Healthy Ageing** — Horizon Europe · Deadline: 2026-10-28
+- **Biotechnology for Healthy Ageing**
+  Horizon Europe · HORIZON-EIC HORIZON EIC Grants · Deadline: 2026-10-28
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDERCHALLENGES-01-02
 
 ## Distribution by thematic area (new dataset)
 
@@ -26,12 +26,12 @@ No new calls compared to the previous snapshot.
 | Climate, Energy & Mobility | 118 |
 | Digital, Industry & Space | 69 |
 | Food, Bioeconomy & Environment | 51 |
-| Culture, Creativity & Inclusion | 44 |
+| Culture, Creativity & Inclusion | 47 |
 | Security & Resilience | 44 |
 | Defence | 37 |
-| Health & Life Sciences | 24 |
+| Health & Life Sciences | 23 |
 | Climate-neutral & Smart Cities | 19 |
-| SME, Entrepreneurship & Market Uptake | 14 |
+| SME, Entrepreneurship & Market Uptake | 15 |
 | Internships, fellowships & scholarships | 9 |
 | External Action & International Cooperation | 3 |
-| Cross-cutting / Other | 3 |
+| Cross-cutting / Other | 1 |
