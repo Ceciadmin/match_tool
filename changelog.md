@@ -1,6 +1,6 @@
 # Changelog calls.json
 
-**Last updated:** 2026-10-11 08:52:15.76
+**Last updated:** 2026-10-12 09:16:14.86
 
 ## Summary
 
@@ -24,10 +24,9 @@ No new calls compared to the previous snapshot.
 | Digital, Industry & Space | 59 |
 | Food, Bioeconomy & Environment | 51 |
 | Security & Resilience | 47 |
-| Health & Life Sciences | 36 |
+| Health & Life Sciences | 37 |
 | Climate-neutral & Smart Cities | 20 |
 | SME, Entrepreneurship & Market Uptake | 16 |
 | Defence | 10 |
 | Internships, fellowships & scholarships | 9 |
 | External Action & International Cooperation | 3 |
-| (unclassified) | 1 |
