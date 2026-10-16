@@ -1,60 +1,44 @@
 # Changelog calls.json
 
-**Last updated:** 2026-10-15 07:32:47.89
+**Last updated:** 2026-10-16 07:18:20.20
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 414 |
-| Total calls (previous) | 412 |
-| **New calls added** | **5** |
-| Calls removed (expired/closed) | 3 |
+| Total calls (new) | 410 |
+| Total calls (previous) | 414 |
+| **New calls added** | **1** |
+| Calls removed (expired/closed) | 5 |
 
-## Calls added (5)
+## Calls added (1)
 
-### Defence (1)
+### (unclassified) (1)
 
-- **Maturing projects for possible future European Defence Projects of Common Interest and preparing their implementation roadmap**
-  European Defence Fund · EDF-LS EDF Lump Sum Grants · Deadline: 2026-12-15
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-FNLC-CSA-PREP
+- **EU Humanitarian Partnership Certificate 2028-2034**
+  43253952 · HUMA-CERT HUMA Certificate · Deadline: 2033-06-30
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HUMA-2028-2034-PARTNERSHIP-CERT
 
-### Digital, Industry & Space (4)
+## Calls removed (5)
 
-- **Cross-border Cyber Hubs**
-  Digital Europe Programme · DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants · Deadline: 2027-03-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-12-CBCH
-
-- **National Cyber Hubs**
-  Digital Europe Programme · DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants · Deadline: 2027-03-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-12-NATCH
-
-- **Space critical EEE components for EU non-dependence**
-  Horizon Europe · RIA · Deadline: 2028-01-20
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-07-83
-
-- **Space critical equipment for EU non-dependence**
-  Horizon Europe · RIA · Deadline: 2028-01-20
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-07-84
-
-## Calls removed (3)
-
-- **ERC Starting Grant** — Horizon Europe · Deadline: 2026-10-14
-- **Space critical EEE components for EU non-dependence** — Horizon Europe · Deadline: 2027-09-02
-- **Space critical equipment for EU non-dependence** — Horizon Europe · Deadline: 2027-09-02
+- **Innovative approaches for the spatial design of neighbourhoods** — Horizon Europe · Deadline: 2026-12-01
+- **Sustainable, inclusive, affordable and beautiful solutions for thermal comfort in buildings** — Horizon Europe · Deadline: 2026-12-01
+- **Call for proposals for action grants to support transnational projects in the fields of e-Justice, victims’ rights and procedural rights** — JUST · Deadline: 2026-10-15
+- **Call for proposals for action grants to support transnational projects in the fields of e-Justice, victims’ rights and procedural rights** — JUST · Deadline: 2026-10-15
+- **EU support to Stakeholders to improve measurement of food waste and help implement food waste prevention in their operations and organisation - 2026-2027** — Single Market Programme (SMP) · Deadline: 2026-10-15
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 97 |
-| Culture, Creativity & Inclusion | 64 |
+| Climate, Energy & Mobility | 96 |
+| Culture, Creativity & Inclusion | 63 |
 | Digital, Industry & Space | 61 |
 | Food, Bioeconomy & Environment | 51 |
 | Security & Resilience | 47 |
-| Health & Life Sciences | 36 |
-| Climate-neutral & Smart Cities | 20 |
-| SME, Entrepreneurship & Market Uptake | 16 |
+| Health & Life Sciences | 37 |
+| Climate-neutral & Smart Cities | 18 |
+| SME, Entrepreneurship & Market Uptake | 15 |
 | Defence | 9 |
 | Internships, fellowships & scholarships | 8 |
 | External Action & International Cooperation | 3 |
