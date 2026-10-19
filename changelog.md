@@ -1,51 +1,53 @@
 # Changelog calls.json
 
-**Last updated:** 2026-10-18 07:26:20.22
+**Last updated:** 2026-10-19 07:51:41.24
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 407 |
-| Total calls (previous) | 408 |
-| **New calls added** | **3** |
-| Calls removed (expired/closed) | 4 |
+| Total calls (new) | 411 |
+| Total calls (previous) | 407 |
+| **New calls added** | **4** |
+| Calls removed (expired/closed) | 0 |
 
-## Calls added (3)
+## Calls added (4)
 
-### Climate, Energy & Mobility (3)
+### Climate, Energy & Mobility (2)
 
-- **Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)**
+- **Fire prevention and mitigation for EVs in confined areas (2ZERO Partnership)**
   Horizon Europe · IA · Deadline: 2027-04-14
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-05
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-06
 
-- **Autonomous vessels in short sea shipping and inland waterways**
-  Horizon Europe · IA · Deadline: 2027-04-14
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-16
+- **Novel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships)**
+  Horizon Europe · RIA · Deadline: 2027-10-07
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-04-Two-Stage-D2-07
 
-- **Support to the implementation of an EU policy framework for CO2 transport and storage infrastructure**
-  Horizon Europe · CSA · Deadline: 2027-09-15
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D3-31
+### Climate-neutral & Smart Cities (1)
 
-## Calls removed (4)
+- **Understanding inhabitant’s experiences of neighbourhoods to support their health and well-being**
+  Horizon Europe · RIA · Deadline: 2026-12-01
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-PARTICIPATION-03
 
-- **Fire prevention and mitigation for EVs in confined areas (2ZERO Partnership)** — Horizon Europe · Deadline: 2027-04-14
-- **Novel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships)** — Horizon Europe · Deadline: 2027-10-07
-- **Advanced Materials for Miniaturised Energy Harvesting Systems** — Horizon Europe · Deadline: 2026-10-28
-- **Understanding inhabitant’s experiences of neighbourhoods to support their health and well-being** — Horizon Europe · Deadline: 2026-12-01
+### SME, Entrepreneurship & Market Uptake (1)
+
+- **Advanced Materials for Miniaturised Energy Harvesting Systems**
+  Horizon Europe · HORIZON-EIC HORIZON EIC Grants · Deadline: 2026-10-28
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDERCHALLENGES-01-01
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 95 |
-| Culture, Creativity & Inclusion | 63 |
+| Climate, Energy & Mobility | 97 |
+| Culture, Creativity & Inclusion | 62 |
 | Digital, Industry & Space | 61 |
 | Food, Bioeconomy & Environment | 51 |
 | Security & Resilience | 47 |
 | Health & Life Sciences | 37 |
-| Climate-neutral & Smart Cities | 19 |
-| SME, Entrepreneurship & Market Uptake | 14 |
+| Climate-neutral & Smart Cities | 20 |
+| SME, Entrepreneurship & Market Uptake | 15 |
 | Defence | 9 |
 | Internships, fellowships & scholarships | 8 |
 | External Action & International Cooperation | 3 |
+| (unclassified) | 1 |
