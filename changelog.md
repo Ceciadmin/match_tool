@@ -1,62 +1,77 @@
 # Changelog calls.json
 
-**Last updated:** 2026-10-20 07:43:20.32
+**Last updated:** 2026-10-22 07:41:45.39
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 412 |
-| Total calls (previous) | 411 |
-| **New calls added** | **5** |
-| Calls removed (expired/closed) | 4 |
+| Total calls (new) | 419 |
+| Total calls (previous) | 412 |
+| **New calls added** | **9** |
+| Calls removed (expired/closed) | 2 |
 
-## Calls added (5)
+## Calls added (9)
+
+### Climate, Energy & Mobility (1)
+
+- **Support for information measures relating to the common agricultural policy (IMCAP)**
+  43251882 · IMCAP-PJG IMCAP Project Grants · Deadline: 2027-01-21
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/IMCAP-2027-INFOME
 
 ### Culture, Creativity & Inclusion (3)
 
-- **Creative Innovation Lab**
-  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-04-22
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-INNOVLAB
+- **NEWS - JOURNALISM PARTNERSHIPS - COLLABORATIONS**
+  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-02-04
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-JOURPART-COLLABORATIONS
 
-- **NEWS - Media Literacy**
-  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-01-20
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MEDIALITERACY
+- **NEWS - JOURNALISM PARTNERSHIPS - PLURALISM**
+  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-02-04
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-JOURPART-PLURALISM
 
-- **NEWS - Media Freedom Rapid Response Mechanism**
-  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-01-27
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MFP
+- **Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights**
+  JUST · JUST-LS JUST Lump Sum Grants · Deadline: 2027-03-04
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JTRA
 
-### Security & Resilience (2)
+### Health & Life Sciences (5)
 
-- **Cross-Border Cyber Hubs**
-  52395851 · EOI Call for Expression of Interest · Deadline: 2027-03-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EOI-ECCC-2027-DIGITAL-DEPLOY-CYBER-12-CEI-CBCH
+- **Personalised approaches to reduce risks from Adverse Drug Reactions due to administration of multiple medications**
+  Horizon Europe · RIA · Deadline: 2027-02-17
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-CARE-02
 
-- **National Cyber Hubs**
-  52395851 · EOI Call for Expression of Interest · Deadline: 2027-03-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EOI-ECCC-2027-DIGITAL-DEPLOY-CYBER-12-CEI-NATCH
+- **Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses**
+  Horizon Europe · RIA · Deadline: 2027-02-17
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-07
 
-## Calls removed (4)
+- **Clinical trials for advancing innovative interventions for neurodegenerative diseases**
+  Horizon Europe · RIA · Deadline: 2027-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-DISEASE-14-two-stage
 
-- **Personalised approaches to reduce risks from Adverse Drug Reactions due to administration of multiple medications** — Horizon Europe · Deadline: 2027-02-17
-- **Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses** — Horizon Europe · Deadline: 2027-02-17
-- **Clinical trials for advancing innovative interventions for neurodegenerative diseases** — Horizon Europe · Deadline: 2027-09-16
-- **Portable and versatile Point-of-care diagnostics** — Horizon Europe · Deadline: 2027-09-16
+- **Portable and versatile Point-of-care diagnostics**
+  Horizon Europe · IA · Deadline: 2027-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-IND-02-two-stage
+
+- **Intra-Africa Academic Mobility Scheme**
+  45876777 · NDICI-MOBAF-UN NDICI MOBAF Unit Grants · Deadline: 2027-02-02
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/NDICI-2026-MOBAF
+
+## Calls removed (2)
+
+- **Neutral-Atom Platform Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Quantum-Testing Infrastructure for Quantum Technologies** — Horizon Europe · Deadline: 2026-11-17
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 97 |
-| Culture, Creativity & Inclusion | 66 |
+| Climate, Energy & Mobility | 96 |
+| Culture, Creativity & Inclusion | 69 |
 | Digital, Industry & Space | 61 |
 | Food, Bioeconomy & Environment | 51 |
 | Security & Resilience | 49 |
-| Health & Life Sciences | 32 |
+| Health & Life Sciences | 38 |
 | Climate-neutral & Smart Cities | 20 |
 | SME, Entrepreneurship & Market Uptake | 15 |
 | Defence | 9 |
 | Internships, fellowships & scholarships | 8 |
 | External Action & International Cooperation | 3 |
-| (unclassified) | 1 |
