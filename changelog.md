@@ -1,77 +1,59 @@
 # Changelog calls.json
 
-**Last updated:** 2026-10-22 07:41:45.39
+**Last updated:** 2026-10-24 07:28:37.48
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 419 |
-| Total calls (previous) | 412 |
-| **New calls added** | **9** |
-| Calls removed (expired/closed) | 2 |
+| Total calls (new) | 413 |
+| Total calls (previous) | 419 |
+| **New calls added** | **3** |
+| Calls removed (expired/closed) | 9 |
 
-## Calls added (9)
+## Calls added (3)
 
-### Climate, Energy & Mobility (1)
+### Climate, Energy & Mobility (2)
 
-- **Support for information measures relating to the common agricultural policy (IMCAP)**
-  43251882 · IMCAP-PJG IMCAP Project Grants · Deadline: 2027-01-21
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/IMCAP-2027-INFOME
+- **Neutral-Atom Platform Technologies**
+  Horizon Europe · RIA · Deadline: 2026-11-17
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-NAPT-11-01
 
-### Culture, Creativity & Inclusion (3)
+- **Quantum-Testing Infrastructure for Quantum Technologies**
+  Horizon Europe · RIA · Deadline: 2026-11-17
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-QTI-13-01
 
-- **NEWS - JOURNALISM PARTNERSHIPS - COLLABORATIONS**
-  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-02-04
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-JOURPART-COLLABORATIONS
+### External Action & International Cooperation (1)
 
-- **NEWS - JOURNALISM PARTNERSHIPS - PLURALISM**
-  Creative Europe (CREA) · CREA-PJG CREA Project Grants · Deadline: 2027-02-04
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-JOURPART-PLURALISM
+- **Support to the re-evaluation of approved food additives under Regulation (EU) No 257/2010**
+  EUBA · EUBA EUBA Type of Action · Deadline: 2027-01-28
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2027-FIP-01
 
-- **Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights**
-  JUST · JUST-LS JUST Lump Sum Grants · Deadline: 2027-03-04
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JTRA
+## Calls removed (9)
 
-### Health & Life Sciences (5)
-
-- **Personalised approaches to reduce risks from Adverse Drug Reactions due to administration of multiple medications**
-  Horizon Europe · RIA · Deadline: 2027-02-17
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-CARE-02
-
-- **Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses**
-  Horizon Europe · RIA · Deadline: 2027-02-17
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-07
-
-- **Clinical trials for advancing innovative interventions for neurodegenerative diseases**
-  Horizon Europe · RIA · Deadline: 2027-09-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-DISEASE-14-two-stage
-
-- **Portable and versatile Point-of-care diagnostics**
-  Horizon Europe · IA · Deadline: 2027-09-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-IND-02-two-stage
-
-- **Intra-Africa Academic Mobility Scheme**
-  45876777 · NDICI-MOBAF-UN NDICI MOBAF Unit Grants · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/NDICI-2026-MOBAF
-
-## Calls removed (2)
-
-- **Neutral-Atom Platform Technologies** — Horizon Europe · Deadline: 2026-11-17
-- **Quantum-Testing Infrastructure for Quantum Technologies** — Horizon Europe · Deadline: 2026-11-17
+- **Cross-Border Cyber Hubs** — 52395851 · Deadline: 2027-03-16
+- **National Cyber Hubs** — 52395851 · Deadline: 2027-03-16
+- **Advanced manufacturing for key products (IA) (Made in Europe partnership)** — Horizon Europe · Deadline: 2027-02-02
+- **Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships)** — Horizon Europe · Deadline: 2027-02-02
+- **Textile circularity through advanced processing and manufacturing technologies and system approaches (IA) (Textiles for the Future partnership)** — Horizon Europe · Deadline: 2027-02-02
+- **Expert network on Critical raw materials (CSA)** — Horizon Europe · Deadline: 2027-02-02
+- **Innovative advanced materials and new production processes – reducing dependencies on Critical and Strategic Raw Materials (IA) (Innovative Advanced Materials for the EU and Processes4Planet partnerships)** — Horizon Europe · Deadline: 2027-02-02
+- **Unlocking the potential of academic intellectual assets for industry, SMEs and startups (CSA)** — Horizon Europe · Deadline: 2027-02-02
+- **Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)** — Horizon Europe · Deadline: 2027-02-02
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 96 |
+| Climate, Energy & Mobility | 98 |
 | Culture, Creativity & Inclusion | 69 |
-| Digital, Industry & Space | 61 |
+| Digital, Industry & Space | 54 |
 | Food, Bioeconomy & Environment | 51 |
-| Security & Resilience | 49 |
+| Security & Resilience | 46 |
 | Health & Life Sciences | 38 |
 | Climate-neutral & Smart Cities | 20 |
 | SME, Entrepreneurship & Market Uptake | 15 |
 | Defence | 9 |
 | Internships, fellowships & scholarships | 8 |
-| External Action & International Cooperation | 3 |
+| External Action & International Cooperation | 4 |
+| (unclassified) | 1 |
