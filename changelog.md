@@ -1,42 +1,46 @@
 # Changelog calls.json
 
-**Last updated:** 2026-10-27 08:00:31.61
+**Last updated:** 2026-10-28 08:30:46.12
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 419 |
-| Total calls (previous) | 420 |
-| **New calls added** | **1** |
-| Calls removed (expired/closed) | 2 |
+| Total calls (new) | 418 |
+| Total calls (previous) | 419 |
+| **New calls added** | **2** |
+| Calls removed (expired/closed) | 3 |
 
-## Calls added (1)
+## Calls added (2)
 
-### Culture, Creativity & Inclusion (1)
+### Climate, Energy & Mobility (2)
 
-- **CERV-2026-CITIZENS-VALUES**
-  CERV · CERV-PJG CERV Project Grants · Deadline: 2027-02-24
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-CITIZENS-VALUES
+- **Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership)**
+  Horizon Europe · IA · Deadline: 2027-09-15
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D2-08
 
-## Calls removed (2)
+- **Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres**
+  Horizon Europe · IA · Deadline: 2027-09-15
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-06
 
-- **Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership)** — Horizon Europe · Deadline: 2027-09-15
-- **Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres** — Horizon Europe · Deadline: 2027-09-15
+## Calls removed (3)
+
+- **Prospective evaluation of nuclear power potential for shipping (ZEWT Partnership)** — Horizon Europe · Deadline: 2027-04-14
+- **Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership)** — Horizon Europe · Deadline: 2027-04-14
+- **Enhanced electric operation and battery durability (ZEWT Partnership)** — Horizon Europe · Deadline: 2027-04-14
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 96 |
+| Climate, Energy & Mobility | 95 |
 | Culture, Creativity & Inclusion | 70 |
 | Digital, Industry & Space | 61 |
 | Food, Bioeconomy & Environment | 51 |
 | Security & Resilience | 47 |
-| Health & Life Sciences | 37 |
+| Health & Life Sciences | 38 |
 | Climate-neutral & Smart Cities | 20 |
 | SME, Entrepreneurship & Market Uptake | 15 |
 | Defence | 9 |
 | Internships, fellowships & scholarships | 8 |
 | External Action & International Cooperation | 4 |
-| Cross-cutting / Other | 1 |
