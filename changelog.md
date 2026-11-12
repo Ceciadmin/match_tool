@@ -1,73 +1,68 @@
 # Changelog calls.json
 
-**Last updated:** 2026-11-11 09:22:32.80
+**Last updated:** 2026-11-12 09:53:47.11
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 392 |
-| Total calls (previous) | 385 |
-| **New calls added** | **8** |
+| Total calls (new) | 398 |
+| Total calls (previous) | 392 |
+| **New calls added** | **7** |
 | Calls removed (expired/closed) | 1 |
 
-## Calls added (8)
+## Calls added (7)
 
-### Climate, Energy & Mobility (5)
+### Digital, Industry & Space (5)
 
-- **Prospective evaluation of nuclear power potential for shipping (ZEWT Partnership)**
-  Horizon Europe · CSA · Deadline: 2027-04-14
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-15
-
-- **Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership)**
-  Horizon Europe · RIA · Deadline: 2027-04-14
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-17
-
-- **Enhanced electric operation and battery durability (ZEWT Partnership)**
-  Horizon Europe · IA · Deadline: 2027-04-14
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-18
-
-- **Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership)**
-  Horizon Europe · IA · Deadline: 2027-09-15
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D2-08
-
-- **Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres**
-  Horizon Europe · IA · Deadline: 2027-09-15
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-06
-
-### Digital, Industry & Space (1)
-
-- **Automated Scientific Discovery - Materials Science (RAISE pilot) (RIA)**
+- **Factory processes and automation for de- and re-manufacturing (RIA) (Made in Europe partnership)**
   Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2027-01-01
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-03
 
-### SME, Entrepreneurship & Market Uptake (2)
+- **Fast Track to Research and Innovation for breakthroughs in industrial technologies (Research and Innovation Action)**
+  Horizon Europe · RIA · Deadline: 2027-02-02
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-61
 
-- **Short proposal**
-  Horizon Europe · HORIZON-EIC-ACC HORIZON EIC Accelerator · Deadline: 2027-12-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2027-ACCELERATOR-01
+- **Fast Track to Innovation for breakthroughs in the Chemical Industry Action Plan (Research and Innovation Action)**
+  Horizon Europe · RIA · Deadline: 2027-02-02
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-62
 
-- **EIC STEP Scale Up**
-  Horizon Europe · HORIZON-EIC-EQU HORIZON EIC Equity Only · Deadline: 2027-11-24
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2027-STEP
+- **Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)**
+  Horizon Europe · IA · Deadline: 2027-09-02
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-02-MAT-PROD-32-two-stage
+
+- **Automated Scientific Discovery – Food (RAISE pilot)**
+  Horizon Europe · RIA · Deadline: 2027-02-02
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2027-01-02
+
+### Internships, fellowships & scholarships (1)
+
+- **Proof of Concept Grant**
+  Horizon Europe · HORIZON-ERC-POC HORIZON ERC Proof of Concept Grants · Deadline: 2027-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERC-2027-POC
+
+### SME, Entrepreneurship & Market Uptake (1)
+
+- **HORIZON-EIC-2027-PATHFINDEROPEN-two-stage**
+  Horizon Europe · HORIZON-EIC HORIZON EIC Grants · Deadline: 2027-09-16
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2027-PATHFINDEROPEN-two-stage
 
 ## Calls removed (1)
 
-- **Missiles, ammunition and bombs** — European Defence Fund · Deadline: 2026-11-10
+- **Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries** — Horizon Europe · Deadline: 2027-09-30
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
 | Climate, Energy & Mobility | 98 |
-| Culture, Creativity & Inclusion | 66 |
-| Digital, Industry & Space | 57 |
+| Culture, Creativity & Inclusion | 65 |
+| Digital, Industry & Space | 62 |
 | Food, Bioeconomy & Environment | 51 |
-| Health & Life Sciences | 38 |
+| Health & Life Sciences | 39 |
 | Security & Resilience | 26 |
 | Climate-neutral & Smart Cities | 20 |
-| SME, Entrepreneurship & Market Uptake | 14 |
-| Internships, fellowships & scholarships | 8 |
+| SME, Entrepreneurship & Market Uptake | 15 |
+| Internships, fellowships & scholarships | 9 |
 | Defence | 8 |
 | External Action & International Cooperation | 5 |
-| (unclassified) | 1 |
