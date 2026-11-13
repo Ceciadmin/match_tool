@@ -1,55 +1,35 @@
 # Changelog calls.json
 
-**Last updated:** 2026-11-12 09:53:47.11
+**Last updated:** 2026-11-13 09:37:56.25
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 398 |
-| Total calls (previous) | 392 |
-| **New calls added** | **7** |
-| Calls removed (expired/closed) | 1 |
+| Total calls (new) | 397 |
+| Total calls (previous) | 398 |
+| **New calls added** | **2** |
+| Calls removed (expired/closed) | 3 |
 
-## Calls added (7)
+## Calls added (2)
 
-### Digital, Industry & Space (5)
+### Culture, Creativity & Inclusion (1)
 
-- **Factory processes and automation for de- and re-manufacturing (RIA) (Made in Europe partnership)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-03
+- **Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries**
+  Horizon Europe · RIA · Deadline: 2027-09-30
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-02-HERITAGE-09-two-stage
 
-- **Fast Track to Research and Innovation for breakthroughs in industrial technologies (Research and Innovation Action)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-61
+### Food, Bioeconomy & Environment (1)
 
-- **Fast Track to Innovation for breakthroughs in the Chemical Industry Action Plan (Research and Innovation Action)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-62
+- **Improving scientific knowledge to strengthen the science-basis of management decisions under the CFP**
+  EMFAF · EMFAF-PJG EMFAF Project Grants · Deadline: 2027-02-23
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EMFAF-2027-PIA-ScientificAdviceFisheries
 
-- **Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)**
-  Horizon Europe · IA · Deadline: 2027-09-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-02-MAT-PROD-32-two-stage
+## Calls removed (3)
 
-- **Automated Scientific Discovery – Food (RAISE pilot)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2027-01-02
-
-### Internships, fellowships & scholarships (1)
-
-- **Proof of Concept Grant**
-  Horizon Europe · HORIZON-ERC-POC HORIZON ERC Proof of Concept Grants · Deadline: 2027-09-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERC-2027-POC
-
-### SME, Entrepreneurship & Market Uptake (1)
-
-- **HORIZON-EIC-2027-PATHFINDEROPEN-two-stage**
-  Horizon Europe · HORIZON-EIC HORIZON EIC Grants · Deadline: 2027-09-16
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2027-PATHFINDEROPEN-two-stage
-
-## Calls removed (1)
-
-- **Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries** — Horizon Europe · Deadline: 2027-09-30
+- **I3-2026-INV1 - Interregional Innovation Investments Strand 1** — I3 · Deadline: 2026-11-12
+- **I3-2026-INV2a - Interregional Innovation Investments Strand 2a** — I3 · Deadline: 2026-11-12
+- **SOCPL-2026-INFO-REPR** — SOCPL · Deadline: 2026-11-12
 
 ## Distribution by thematic area (new dataset)
 
@@ -58,11 +38,12 @@
 | Climate, Energy & Mobility | 98 |
 | Culture, Creativity & Inclusion | 65 |
 | Digital, Industry & Space | 62 |
-| Food, Bioeconomy & Environment | 51 |
-| Health & Life Sciences | 39 |
+| Food, Bioeconomy & Environment | 52 |
+| Health & Life Sciences | 38 |
 | Security & Resilience | 26 |
 | Climate-neutral & Smart Cities | 20 |
-| SME, Entrepreneurship & Market Uptake | 15 |
+| SME, Entrepreneurship & Market Uptake | 13 |
 | Internships, fellowships & scholarships | 9 |
 | Defence | 8 |
 | External Action & International Cooperation | 5 |
+| (unclassified) | 1 |
