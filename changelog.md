@@ -1,45 +1,44 @@
 # Changelog calls.json
 
-**Last updated:** 2026-11-15 09:17:33.40
+**Last updated:** 2026-11-16 09:36:49.62
 
 ## Summary
 
 | | Count |
 |---|---|
-| Total calls (new) | 393 |
-| Total calls (previous) | 394 |
-| **New calls added** | **3** |
-| Calls removed (expired/closed) | 4 |
+| Total calls (new) | 397 |
+| Total calls (previous) | 393 |
+| **New calls added** | **4** |
+| Calls removed (expired/closed) | 0 |
 
-## Calls added (3)
+## Calls added (4)
 
-### Digital, Industry & Space (3)
+### Climate, Energy & Mobility (3)
 
-- **Fast Track to Research and Innovation for breakthroughs in industrial technologies (Research and Innovation Action)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-61
+- **Prospective evaluation of nuclear power potential for shipping (ZEWT Partnership)**
+  Horizon Europe · CSA · Deadline: 2027-04-14
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-15
 
-- **Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)**
-  Horizon Europe · IA · Deadline: 2027-09-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-02-MAT-PROD-32-two-stage
+- **Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership)**
+  Horizon Europe · RIA · Deadline: 2027-04-14
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-17
 
-- **Automated Scientific Discovery – Food (RAISE pilot)**
-  Horizon Europe · RIA · Deadline: 2027-02-02
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2027-01-02
+- **Enhanced electric operation and battery durability (ZEWT Partnership)**
+  Horizon Europe · IA · Deadline: 2027-04-14
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-18
 
-## Calls removed (4)
+### Culture, Creativity & Inclusion (1)
 
-- **Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries** — Horizon Europe · Deadline: 2027-09-30
-- **Prospective evaluation of nuclear power potential for shipping (ZEWT Partnership)** — Horizon Europe · Deadline: 2027-04-14
-- **Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership)** — Horizon Europe · Deadline: 2027-04-14
-- **Enhanced electric operation and battery durability (ZEWT Partnership)** — Horizon Europe · Deadline: 2027-04-14
+- **Open topic: Impact-driven research on realising the full potential of cultural heritage, arts and cultural and creative industries**
+  Horizon Europe · RIA · Deadline: 2027-09-30
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-02-HERITAGE-09-two-stage
 
 ## Distribution by thematic area (new dataset)
 
 | Thematic area | Calls |
 |---|---|
-| Climate, Energy & Mobility | 94 |
-| Culture, Creativity & Inclusion | 64 |
+| Climate, Energy & Mobility | 98 |
+| Culture, Creativity & Inclusion | 65 |
 | Digital, Industry & Space | 62 |
 | Food, Bioeconomy & Environment | 52 |
 | Health & Life Sciences | 39 |
@@ -49,4 +48,3 @@
 | Internships, fellowships & scholarships | 9 |
 | Defence | 8 |
 | External Action & International Cooperation | 5 |
-| (unclassified) | 1 |
