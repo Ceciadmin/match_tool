@@ -1,6 +1,6 @@
 # Changelog calls.json
 
-**Last updated:** 2026-11-22 09:56:09.72
+**Last updated:** 2026-11-23 10:49:49.38
 
 ## Summary
 
@@ -20,15 +20,14 @@ No new calls compared to the previous snapshot.
 | Thematic area | Calls |
 |---|---|
 | Climate, Energy & Mobility | 92 |
-| Culture, Creativity & Inclusion | 79 |
+| Culture, Creativity & Inclusion | 81 |
 | Digital, Industry & Space | 61 |
 | Food, Bioeconomy & Environment | 52 |
-| Health & Life Sciences | 37 |
+| Health & Life Sciences | 38 |
 | Security & Resilience | 26 |
 | Climate-neutral & Smart Cities | 20 |
 | SME, Entrepreneurship & Market Uptake | 13 |
 | Internships, fellowships & scholarships | 9 |
 | Defence | 8 |
 | External Action & International Cooperation | 5 |
-| Cross-cutting / Other | 2 |
-| (unclassified) | 2 |
+| (unclassified) | 1 |
